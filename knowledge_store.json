@@ -1,0 +1,218 @@
+[
+  {
+    "fact_id": "84339ea0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ly To All Eligible Employees Who Have Bid In Excess",
+    "attribute": "headcount",
+    "value_text": "₹200,000",
+    "normalized_value": 200000.0,
+    "unit": "INR",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 3,
+      "exact_quote": "allocation and Allotment, proportionately to all Eligible Employees who have Bid in excess of ₹200,000 subject to the",
+      "context_snippet": "allocation and Allotment, proportionately to all Eligible Employees who have Bid in excess of ₹200,000 subject to the"
+    }
+  },
+  {
+    "fact_id": "4013d603",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Revenue In The Respective Fiscal",
+    "attribute": "revenue",
+    "value_text": "93.00",
+    "normalized_value": 93.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 56,
+      "exact_quote": "revenue in the respective Fiscal) was 93.00%, 100.00%, and 92.00% for Fiscal 2019, Fiscal 2020 and Fiscal 2021,",
+      "context_snippet": "revenue in the respective Fiscal) was 93.00%, 100.00%, and 92.00% for Fiscal 2019, Fiscal 2020 and Fiscal 2021,"
+    }
+  },
+  {
+    "fact_id": "85abd32c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Revenue From Contract With Customers",
+    "attribute": "revenue",
+    "value_text": "89.53",
+    "normalized_value": 89.53,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 56,
+      "exact_quote": "of revenue from contract with customers was  89.53%, nil, 0.25% , nil,  and 6.23% in Fiscal 2019, Fiscal 2020,",
+      "context_snippet": "of revenue from contract with customers was  89.53%, nil, 0.25% , nil,  and 6.23% in Fiscal 2019, Fiscal 2020,"
+    }
+  },
+  {
+    "fact_id": "c1a419dc",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Revenue From Contract With Customers",
+    "attribute": "revenue",
+    "value_text": "89.53",
+    "normalized_value": 89.53,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 59,
+      "exact_quote": "of revenue from contract with customers was  89.53%, nil, 0.25%, nil and 6.23% in Fiscal 2019, Fiscal 2020,",
+      "context_snippet": "of revenue from contract with customers was  89.53%, nil, 0.25%, nil and 6.23% in Fiscal 2019, Fiscal 2020,"
+    }
+  },
+  {
+    "fact_id": "76bbe94e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Customers (By Revenue In The Respective Fiscal",
+    "attribute": "revenue",
+    "value_text": "93.00",
+    "normalized_value": 93.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 59,
+      "exact_quote": "material customers, that is for the top 100 customers (by revenue in the respective Fiscal) was 93.00%, 100.00%,",
+      "context_snippet": "material customers, that is for the top 100 customers (by revenue in the respective Fiscal) was 93.00%, 100.00%,"
+    }
+  },
+  {
+    "fact_id": "b837f7f4",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Achieved Ebitda Profit",
+    "attribute": "ebitda",
+    "value_text": "₹1,266",
+    "normalized_value": 1266.0,
+    "unit": "INR",
+    "time_period": "FY24",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 8,
+      "exact_quote": "• Achieved EBITDA profit of ₹1,266",
+      "context_snippet": "• Achieved EBITDA profit of ₹1,266"
+    }
+  },
+  {
+    "fact_id": "02d3542b",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Personal Growth, Enhancing Employee",
+    "attribute": "headcount",
+    "value_text": "11",
+    "normalized_value": 11.0,
+    "unit": "Numerical",
+    "time_period": "FY24",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 17,
+      "exact_quote": "personal growth, enhancing employee of 11% in the total headcount over the",
+      "context_snippet": "personal growth, enhancing employee of 11% in the total headcount over the"
+    }
+  },
+  {
+    "fact_id": "07245378",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "S Gdp To Grow",
+    "attribute": "gdp_growth",
+    "value_text": "7.2%",
+    "normalized_value": 7.2,
+    "unit": "%",
+    "time_period": "FY24",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 34,
+      "exact_quote": "Bank of India has projected India’s GDP to grow at 7.2%1 in",
+      "context_snippet": "Bank of India has projected India’s GDP to grow at 7.2%1 in"
+    }
+  },
+  {
+    "fact_id": "382f8512",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Of Revenue From Contracts With Customers",
+    "attribute": "revenue",
+    "value_text": "7.46",
+    "normalized_value": 7.46,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 36,
+      "exact_quote": "of revenue from contracts with customers, decreased to 7.46%",
+      "context_snippet": "of revenue from contracts with customers, decreased to 7.46%"
+    }
+  },
+  {
+    "fact_id": "9bfbfc9f",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "As Non-Executive Independent Director For A Period",
+    "attribute": "board_leadership",
+    "value_text": "5",
+    "normalized_value": 5.0,
+    "unit": "Numerical",
+    "time_period": "2023-24",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 40,
+      "exact_quote": "1 Mr. Anindya Ghose was appointed as Non-Executive Independent Director for a period of 5 years with effect from August 04, 2023.",
+      "context_snippet": "1 Mr. Anindya Ghose was appointed as Non-Executive Independent Director for a period of 5 years with effect from August 04, 2023."
+    }
+  },
+  {
+    "fact_id": "eebd6df7",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "As Non-Executive Independent Director For A Period",
+    "attribute": "board_leadership",
+    "value_text": "5",
+    "normalized_value": 5.0,
+    "unit": "Numerical",
+    "time_period": "2023-24",
+    "scope": "General",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 40,
+      "exact_quote": "3 Mr. Anindya Ghose was appointed as Non-Executive Independent Director for a period of 5 years with effect from August 04, 2023.",
+      "context_snippet": "3 Mr. Anindya Ghose was appointed as Non-Executive Independent Director for a period of 5 years with effect from August 04, 2023."
+    }
+  },
+  {
+    "fact_id": "3543ec2f",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "S Statutory Income Tax Rate",
+    "attribute": "revenue",
+    "value_text": "25.17",
+    "normalized_value": 25.17,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.9,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 88,
+      "exact_quote": "At India's statutory income tax rate of 25.17% (March 31, 2023: 31.20%) (615.28) (3,285.55)",
+      "context_snippet": "At India's statutory income tax rate of 25.17% (March 31, 2023: 31.20%) (615.28) (3,285.55)"
+    }
+  }
+]

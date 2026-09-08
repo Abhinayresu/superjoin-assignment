@@ -1,0 +1,3908 @@
+[
+  {
+    "fact_id": "52ec7b0d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million",
+    "attribute": "_______",
+    "value_text": "₹52,350",
+    "normalized_value": 52350.0,
+    "unit": "INR",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "₹12,350.00 million  ₹52,350.00",
+      "context_snippet": "₹12,350.00 million  ₹52,350.00"
+    }
+  },
+  {
+    "fact_id": "a601c0ad",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Investments  Investor Selling Shareholder",
+    "attribute": "______________________________",
+    "value_text": "9,324",
+    "normalized_value": 9324.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "CA Swift Investments  Investor Selling Shareholder  9,324,309# Equity Shares aggregating to ₹4,540 million  139.88",
+      "context_snippet": "CA Swift Investments  Investor Selling Shareholder  9,324,309# Equity Shares aggregating to ₹4,540 million  139.88"
+    }
+  },
+  {
+    "fact_id": "5e2fb431",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million",
+    "attribute": "_______",
+    "value_text": "139.88",
+    "normalized_value": 139.88,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "CA Swift Investments  Investor Selling Shareholder  9,324,309# Equity Shares aggregating to ₹4,540 million  139.88",
+      "context_snippet": "CA Swift Investments  Investor Selling Shareholder  9,324,309# Equity Shares aggregating to ₹4,540 million  139.88"
+    }
+  },
+  {
+    "fact_id": "53806eb6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Investor Selling Shareholder",
+    "attribute": "___________________a________",
+    "value_text": "4,107",
+    "normalized_value": 4107.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Deli CMF P te. Ltd.  Investor Selling Shareholder  4,107,626# Equity Shares aggregating to ₹2,000 million  142.91",
+      "context_snippet": "Deli CMF P te. Ltd.  Investor Selling Shareholder  4,107,626# Equity Shares aggregating to ₹2,000 million  142.91"
+    }
+  },
+  {
+    "fact_id": "c91ec765",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million",
+    "attribute": "_______",
+    "value_text": "142.91",
+    "normalized_value": 142.91,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Deli CMF P te. Ltd.  Investor Selling Shareholder  4,107,626# Equity Shares aggregating to ₹2,000 million  142.91",
+      "context_snippet": "Deli CMF P te. Ltd.  Investor Selling Shareholder  4,107,626# Equity Shares aggregating to ₹2,000 million  142.91"
+    }
+  },
+  {
+    "fact_id": "1759b717",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Cayman) Ltd  Investor Selling Shareholder",
+    "attribute": "_a__a_________________________",
+    "value_text": "7,496",
+    "normalized_value": 7496.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "SVF Doorbell (Cayman) Ltd  Investor Selling Shareholder  7,496,416# Equity Shares aggregating to ₹3,650 million  196.19",
+      "context_snippet": "SVF Doorbell (Cayman) Ltd  Investor Selling Shareholder  7,496,416# Equity Shares aggregating to ₹3,650 million  196.19"
+    }
+  },
+  {
+    "fact_id": "00737467",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million",
+    "attribute": "_______",
+    "value_text": "196.19",
+    "normalized_value": 196.19,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "SVF Doorbell (Cayman) Ltd  Investor Selling Shareholder  7,496,416# Equity Shares aggregating to ₹3,650 million  196.19",
+      "context_snippet": "SVF Doorbell (Cayman) Ltd  Investor Selling Shareholder  7,496,416# Equity Shares aggregating to ₹3,650 million  196.19"
+    }
+  },
+  {
+    "fact_id": "4e3f31bc",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Net Limited  Investor Selling Shareholder",
+    "attribute": "______________________________",
+    "value_text": "3,388",
+    "normalized_value": 3388.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Times Internet Limited  Investor Selling Shareholder  3,388,791# Equity Shares aggregating to ₹1,650 million  3.50",
+      "context_snippet": "Times Internet Limited  Investor Selling Shareholder  3,388,791# Equity Shares aggregating to ₹1,650 million  3.50"
+    }
+  },
+  {
+    "fact_id": "ef949720",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million",
+    "attribute": "_______",
+    "value_text": "3.50",
+    "normalized_value": 3.5,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Times Internet Limited  Investor Selling Shareholder  3,388,791# Equity Shares aggregating to ₹1,650 million  3.50",
+      "context_snippet": "Times Internet Limited  Investor Selling Shareholder  3,388,791# Equity Shares aggregating to ₹1,650 million  3.50"
+    }
+  },
+  {
+    "fact_id": "f50c10e6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "L Bharati  Individual Selling Shareholder",
+    "attribute": "____a_a____________a__________",
+    "value_text": "102,69",
+    "normalized_value": 10269.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Kapil Bharati  Individual Selling Shareholder  102,69 0# Equity Shares aggregating to ₹50 million  35.18",
+      "context_snippet": "Kapil Bharati  Individual Selling Shareholder  102,69 0# Equity Shares aggregating to ₹50 million  35.18"
+    }
+  },
+  {
+    "fact_id": "7e2cdf28",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Offer Of Equity Shares(1)(2)",
+    "attribute": "__________________a____1__2_",
+    "value_text": "107,517",
+    "normalized_value": 107517.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 3,
+      "exact_quote": "Offer of Equity Shares(1)(2)  107,517,088 * Equity Shares aggregating to ₹52,350  million",
+      "context_snippet": "Offer of Equity Shares(1)(2)  107,517,088 * Equity Shares aggregating to ₹52,350  million"
+    }
+  },
+  {
+    "fact_id": "470cfc17",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "I) Fresh Issue(1)",
+    "attribute": "_______________1_",
+    "value_text": "82,152",
+    "normalized_value": 82152.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 3,
+      "exact_quote": "(i) Fresh Issue(1)  82,152,503 * Equity Shares aggregating to ₹ 40,000  million",
+      "context_snippet": "(i) Fresh Issue(1)  82,152,503 * Equity Shares aggregating to ₹ 40,000  million"
+    }
+  },
+  {
+    "fact_id": "b7714835",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Net Offer",
+    "attribute": "_________",
+    "value_text": "107,084",
+    "normalized_value": 107084.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 3,
+      "exact_quote": "Net Offer  107,084,188 * Equity Shares aggregating to ₹52,150 million",
+      "context_snippet": "Net Offer  107,084,188 * Equity Shares aggregating to ₹52,150 million"
+    }
+  },
+  {
+    "fact_id": "c9ed529e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Funding Organic Growth Initiatives",
+    "attribute": "___________a________________a_",
+    "value_text": "20,000",
+    "normalized_value": 20000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "1.  Funding organic growth initiatives  20,000",
+      "context_snippet": "1.  Funding organic growth initiatives  20,000"
+    }
+  },
+  {
+    "fact_id": "2a18f83b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Adjacent Business Lines",
+    "attribute": "a__a___________________",
+    "value_text": "1,600",
+    "normalized_value": 1600.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "adjacent business lines  1,600",
+      "context_snippet": "adjacent business lines  1,600"
+    }
+  },
+  {
+    "fact_id": "3634f351",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ii)  Expanding Our Network Infrastructure",
+    "attribute": "________a_____________________",
+    "value_text": "13,600",
+    "normalized_value": 13600.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "(ii)  Expanding our network infrastructure  13,600",
+      "context_snippet": "(ii)  Expanding our network infrastructure  13,600"
+    }
+  },
+  {
+    "fact_id": "e96895b6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ur Proprietary Logistics Operating System",
+    "attribute": "___________a_________________a",
+    "value_text": "4,800",
+    "normalized_value": 4800.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "(iii)  Upgrading and improving our proprietary logistics operating system  4,800",
+      "context_snippet": "(iii)  Upgrading and improving our proprietary logistics operating system  4,800"
+    }
+  },
+  {
+    "fact_id": "3a68b149",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Initiatives",
+    "attribute": "_____a_____",
+    "value_text": "10,000",
+    "normalized_value": 10000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "initiatives  10,000",
+      "context_snippet": "initiatives  10,000"
+    }
+  },
+  {
+    "fact_id": "b51daf4a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "General Corporate Purposes",
+    "attribute": "_____a________a___________",
+    "value_text": "8,703",
+    "normalized_value": 8703.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "3.  General corporate purposes  8,703",
+      "context_snippet": "3.  General corporate purposes  8,703"
+    }
+  },
+  {
+    "fact_id": "792d97ac",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Total Net Proceeds",
+    "attribute": "___a______________",
+    "value_text": "38,703",
+    "normalized_value": 38703.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "Total Net Proceeds  38,703",
+      "context_snippet": "Total Net Proceeds  38,703"
+    }
+  },
+  {
+    "fact_id": "f6c3156b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ca Swift Investments",
+    "attribute": "_a__________________",
+    "value_text": "46,131",
+    "normalized_value": 46131.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "CA Swift Investments  46,131,800  7.18",
+      "context_snippet": "CA Swift Investments  46,131,800  7.18"
+    }
+  },
+  {
+    "fact_id": "1bf61ab2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Svf Doorbell (Cayman) Ltd 141,593,300",
+    "attribute": "_______________a__a_______141_",
+    "value_text": "22.04",
+    "normalized_value": 22.04,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "SVF Doorbell (Cayman) Ltd 141,593,300  22.04",
+      "context_snippet": "SVF Doorbell (Cayman) Ltd 141,593,300  22.04"
+    }
+  },
+  {
+    "fact_id": "8300b4e2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Times Internet Limited 31,703,900",
+    "attribute": "_______________________31_703_",
+    "value_text": "4.94",
+    "normalized_value": 4.94,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 4,
+      "exact_quote": "Times Internet Limited 31,703,900  4.94",
+      "context_snippet": "Times Internet Limited 31,703,900  4.94"
+    }
+  },
+  {
+    "fact_id": "41eed70d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "March 31",
+    "attribute": "_a____31",
+    "value_text": "2020",
+    "normalized_value": 2020.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 5,
+      "exact_quote": "31, 2021 , March 31,  2020 and March 31, 2019.  For further details, see “ Other Financial Information ” on page 508.",
+      "context_snippet": "31, 2021 , March 31,  2020 and March 31, 2019.  For further details, see “ Other Financial Information ” on page 508."
+    }
+  },
+  {
+    "fact_id": "a4a9a538",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Company",
+    "attribute": "____a__",
+    "value_text": "8",
+    "normalized_value": 8.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 5,
+      "exact_quote": "Company  8 Nil Nil N.A.  2 50.74",
+      "context_snippet": "Company  8 Nil Nil N.A.  2 50.74"
+    }
+  },
+  {
+    "fact_id": "4f8748c2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Company",
+    "attribute": "____a__",
+    "value_text": "4",
+    "normalized_value": 4.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 5,
+      "exact_quote": "Company  4 24 13 N.A.  48# 411.69",
+      "context_snippet": "Company  4 24 13 N.A.  48# 411.69"
+    }
+  },
+  {
+    "fact_id": "dec06e46",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Directors",
+    "attribute": "_________",
+    "value_text": "8",
+    "normalized_value": 8.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 6,
+      "exact_quote": "Directors  8 1 5 N.A.  Nil 2.30",
+      "context_snippet": "Directors  8 1 5 N.A.  Nil 2.30"
+    }
+  },
+  {
+    "fact_id": "54be1415",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Subsidiaries",
+    "attribute": "_______a____",
+    "value_text": "15",
+    "normalized_value": 15.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 6,
+      "exact_quote": "Subsidiaries  15 Nil Nil N.A.  Nil 4.66",
+      "context_snippet": "Subsidiaries  15 Nil Nil N.A.  Nil 4.66"
+    }
+  },
+  {
+    "fact_id": "fcbecaaa",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "B) Service Tax",
+    "attribute": "____________a_",
+    "value_text": "622.58",
+    "normalized_value": 622.58,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 6,
+      "exact_quote": "(b) Service tax  622.58",
+      "context_snippet": "(b) Service tax  622.58"
+    }
+  },
+  {
+    "fact_id": "acf005a3",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Contingent Liabilities As At December 31",
+    "attribute": "_____________a_________a__a___",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 6,
+      "exact_quote": "For further details of our contingent liabilities as at December 31,  2021 as per Ind AS 37 – Provision, Contingent",
+      "context_snippet": "For further details of our contingent liabilities as at December 31,  2021 as per Ind AS 37 – Provision, Contingent"
+    }
+  },
+  {
+    "fact_id": "80b74ad2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million, March",
+    "attribute": "__________a___",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 8,
+      "exact_quote": "31, 2020: ₹ 131.87  million, March  31, 2021: ₹268.30 million, March 31, 2020: ₹142.60 million, March  31, 2019: ₹152.70",
+      "context_snippet": "31, 2020: ₹ 131.87  million, March  31, 2021: ₹268.30 million, March 31, 2020: ₹142.60 million, March  31, 2019: ₹152.70"
+    }
+  },
+  {
+    "fact_id": "a3371abf",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million, March",
+    "attribute": "__________a___",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 8,
+      "exact_quote": "31, 2020: ₹ 131.87  million, March  31, 2021: ₹268.30 million, March 31, 2020: ₹142.60 million, March  31, 2019: ₹152.70",
+      "context_snippet": "31, 2020: ₹ 131.87  million, March  31, 2021: ₹268.30 million, March 31, 2020: ₹142.60 million, March  31, 2019: ₹152.70"
+    }
+  },
+  {
+    "fact_id": "dd1db0ab",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ca Swift Investments",
+    "attribute": "_a__________________",
+    "value_text": "46,131",
+    "normalized_value": 46131.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "CA Swift Investments  46,131,800  139.88",
+      "context_snippet": "CA Swift Investments  46,131,800  139.88"
+    }
+  },
+  {
+    "fact_id": "34f8a0f0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Svf Doorbell (Cayman) Ltd",
+    "attribute": "_______________a__a______",
+    "value_text": "141,455",
+    "normalized_value": 141455.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "SVF Doorbell (Cayman) Ltd     141,455,770  194.61",
+      "context_snippet": "SVF Doorbell (Cayman) Ltd     141,455,770  194.61"
+    }
+  },
+  {
+    "fact_id": "edf59430",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Times Internet Limited",
+    "attribute": "______________________",
+    "value_text": "28,000",
+    "normalized_value": 28000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "Times Internet Limited  28,000,970   Nil**",
+      "context_snippet": "Times Internet Limited  28,000,970   Nil**"
+    }
+  },
+  {
+    "fact_id": "bad07014",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kapil Bharati",
+    "attribute": "_a______a_a__",
+    "value_text": "6,133",
+    "normalized_value": 6133.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "Kapil Bharati  6,133,8 80 23.57",
+      "context_snippet": "Kapil Bharati  6,133,8 80 23.57"
+    }
+  },
+  {
+    "fact_id": "449df309",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Mohit Tandon",
+    "attribute": "_______a____",
+    "value_text": "10,487",
+    "normalized_value": 10487.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "Mohit Tandon  10,487,780  Nil**",
+      "context_snippet": "Mohit Tandon  10,487,780  Nil**"
+    }
+  },
+  {
+    "fact_id": "82d8d8d5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Suraj Saharan",
+    "attribute": "___a___a_a_a_",
+    "value_text": "9,839",
+    "normalized_value": 9839.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 10,
+      "exact_quote": "Suraj Saharan  9,839,300  Nil**",
+      "context_snippet": "Suraj Saharan  9,839,300  Nil**"
+    }
+  },
+  {
+    "fact_id": "e70bf8db",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Last One Year",
+    "attribute": "_a_________a_",
+    "value_text": "148.38",
+    "normalized_value": 148.38,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Last one year                             148.38  3.28 Nil** – 400.00",
+      "context_snippet": "Last one year                             148.38  3.28 Nil** – 400.00"
+    }
+  },
+  {
+    "fact_id": "24e457d3",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Last Three  Years",
+    "attribute": "_a____________a__",
+    "value_text": "162.46",
+    "normalized_value": 162.46,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Last three  years                           162.46  3.00                           Nil**  – 400.00",
+      "context_snippet": "Last three  years                           162.46  3.00                           Nil**  – 400.00"
+    }
+  },
+  {
+    "fact_id": "9d3dce08",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ca Swift Investments",
+    "attribute": "_a__________________",
+    "value_text": "46,131",
+    "normalized_value": 46131.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "CA Swift Investments   46,131,800  139.88",
+      "context_snippet": "CA Swift Investments   46,131,800  139.88"
+    }
+  },
+  {
+    "fact_id": "a5e01ef6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Svf Doorbell ( Cayman ) Ltd",
+    "attribute": "________________a__a_______",
+    "value_text": "141,593",
+    "normalized_value": 141593.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "SVF Doorbell ( Cayman ) Ltd  141,593,300  196.19",
+      "context_snippet": "SVF Doorbell ( Cayman ) Ltd  141,593,300  196.19"
+    }
+  },
+  {
+    "fact_id": "b77b094b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Times Internet Limited",
+    "attribute": "______________________",
+    "value_text": "31,703",
+    "normalized_value": 31703.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Times Internet Limited  31,703,900   3.50",
+      "context_snippet": "Times Internet Limited  31,703,900   3.50"
+    }
+  },
+  {
+    "fact_id": "e8a0041a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kapil Bharati",
+    "attribute": "_a______a_a__",
+    "value_text": "6,694",
+    "normalized_value": 6694.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Kapil Bharati  6,694,800   35.18",
+      "context_snippet": "Kapil Bharati  6,694,800   35.18"
+    }
+  },
+  {
+    "fact_id": "b46766b9",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Mohit Tandon",
+    "attribute": "_______a____",
+    "value_text": "11,664",
+    "normalized_value": 11664.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Mohit Tandon  11,664,200  0.10",
+      "context_snippet": "Mohit Tandon  11,664,200  0.10"
+    }
+  },
+  {
+    "fact_id": "31f5b8cd",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Suraj Saharan",
+    "attribute": "___a___a_a_a_",
+    "value_text": "10,994",
+    "normalized_value": 10994.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "Suraj Saharan  10,994,300  0.10",
+      "context_snippet": "Suraj Saharan  10,994,300  0.10"
+    }
+  },
+  {
+    "fact_id": "3ddf71b6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ca Swift Investments  January 13, 2022",
+    "attribute": "_a_____________________a__a___",
+    "value_text": "30,248",
+    "normalized_value": 30248.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "1.  CA Swift Investments  January 13, 2022  30,248,700          108.47  Conversion of Series E",
+      "context_snippet": "1.  CA Swift Investments  January 13, 2022  30,248,700          108.47  Conversion of Series E"
+    }
+  },
+  {
+    "fact_id": "b66948d0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "January 13, 2022",
+    "attribute": "_a__a___13__2022",
+    "value_text": "15,883",
+    "normalized_value": 15883.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 11,
+      "exact_quote": "January 13, 2022    15,883,100  199.71  Conversion of Series F",
+      "context_snippet": "January 13, 2022    15,883,100  199.71  Conversion of Series F"
+    }
+  },
+  {
+    "fact_id": "18eebc1e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "August 8, 2020",
+    "attribute": "a______8__2020",
+    "value_text": "785,260",
+    "normalized_value": 785260.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "August 8, 2020         785,260          78.00  Conversion of Series B",
+      "context_snippet": "August 8, 2020         785,260          78.00  Conversion of Series B"
+    }
+  },
+  {
+    "fact_id": "97ab95eb",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "August 8, 2020",
+    "attribute": "a______8__2020",
+    "value_text": "12,760",
+    "normalized_value": 12760.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "August 8, 2020           12,760  226.42  Conversion of Series C",
+      "context_snippet": "August 8, 2020           12,760  226.42  Conversion of Series C"
+    }
+  },
+  {
+    "fact_id": "30d1dc29",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "September 29, 2021",
+    "attribute": "__________29__2021",
+    "value_text": "28,533",
+    "normalized_value": 28533.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "September 29, 2021   28,533,510  N.A.*  Allotment of  bonus",
+      "context_snippet": "September 29, 2021   28,533,510  N.A.*  Allotment of  bonus"
+    }
+  },
+  {
+    "fact_id": "f8794ddf",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Mohit Tandon  September 29, 2021",
+    "attribute": "_______a________________29__20",
+    "value_text": "10,497",
+    "normalized_value": 10497.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "5.  Mohit Tandon  September 29, 2021  10,497,780  N.A.*  Allotment of  bonus",
+      "context_snippet": "5.  Mohit Tandon  September 29, 2021  10,497,780  N.A.*  Allotment of  bonus"
+    }
+  },
+  {
+    "fact_id": "617253bf",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kapil Bharati  February 3, 2021",
+    "attribute": "_a______a_a_________a___3__202",
+    "value_text": "53,400",
+    "normalized_value": 53400.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "6.  Kapil Bharati  February 3, 2021            53,400       1,896.50  Preferential allotment",
+      "context_snippet": "6.  Kapil Bharati  February 3, 2021            53,400       1,896.50  Preferential allotment"
+    }
+  },
+  {
+    "fact_id": "2fdd0d87",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "September 24, 2021",
+    "attribute": "__________24__2021",
+    "value_text": "160,200",
+    "normalized_value": 160200.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "September 24, 2021          160,200          904.60  Conversion of Series G",
+      "context_snippet": "September 24, 2021          160,200          904.60  Conversion of Series G"
+    }
+  },
+  {
+    "fact_id": "a4ca7450",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "September 29, 2021",
+    "attribute": "__________29__2021",
+    "value_text": "6,310",
+    "normalized_value": 6310.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "September 29, 2021   6,310,080  N.A.*  Allotment of  bonus",
+      "context_snippet": "September 29, 2021   6,310,080  N.A.*  Allotment of  bonus"
+    }
+  },
+  {
+    "fact_id": "c2a5cde6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Suraj Saharan  September 29, 2021",
+    "attribute": "___a___a_a_a_____________29__2",
+    "value_text": "10,057",
+    "normalized_value": 10057.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "7.  Suraj Saharan  September 29, 2021  10,057,590  N.A.*  Allotment of  bonus",
+      "context_snippet": "7.  Suraj Saharan  September 29, 2021  10,057,590  N.A.*  Allotment of  bonus"
+    }
+  },
+  {
+    "fact_id": "2b6bcc60",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Sahil Barua  February 3, 2021",
+    "attribute": "_a_____a__a_______a___3__2021",
+    "value_text": "53,400",
+    "normalized_value": 53400.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "8.  Sahil Barua  February 3, 2021            53,400  1,896.50  Preferential allotment",
+      "context_snippet": "8.  Sahil Barua  February 3, 2021            53,400  1,896.50  Preferential allotment"
+    }
+  },
+  {
+    "fact_id": "5648e9b7",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "September 24, 2021",
+    "attribute": "__________24__2021",
+    "value_text": "160,200",
+    "normalized_value": 160200.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 12,
+      "exact_quote": "September 24, 2021          160,200          904.60  Conversion of Series G",
+      "context_snippet": "September 24, 2021          160,200          904.60  Conversion of Series G"
+    }
+  },
+  {
+    "fact_id": "7d018e3e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kapil Bharati  February 3, 2021",
+    "attribute": "_a______a_a_________a___3__202",
+    "value_text": "6,408",
+    "normalized_value": 6408.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 13,
+      "exact_quote": "6.  Kapil Bharati  February 3, 2021  6,408  22,615.00  Allotment of Series G",
+      "context_snippet": "6.  Kapil Bharati  February 3, 2021  6,408  22,615.00  Allotment of Series G"
+    }
+  },
+  {
+    "fact_id": "2fb4843c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Sahil Barua  February 3, 2021",
+    "attribute": "_a_____a__a_______a___3__2021",
+    "value_text": "6,408",
+    "normalized_value": 6408.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 13,
+      "exact_quote": "8.  Sahil Barua  February 3, 2021           6,408    22,615.00  Allotment of Series G",
+      "context_snippet": "8.  Sahil Barua  February 3, 2021           6,408    22,615.00  Allotment of Series G"
+    }
+  },
+  {
+    "fact_id": "4a70ddaf",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Preference Shares",
+    "attribute": "_____________a___",
+    "value_text": "563,349",
+    "normalized_value": 563349.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 14,
+      "exact_quote": "Preference Shares  563,349  56,334,990  10 1 356.55",
+      "context_snippet": "Preference Shares  563,349  56,334,990  10 1 356.55"
+    }
+  },
+  {
+    "fact_id": "2c1c8a25",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Shares",
+    "attribute": "__a___",
+    "value_text": "146,961",
+    "normalized_value": 146961.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 14,
+      "exact_quote": "Shares  146,961  14,696,100  10 1 380.00",
+      "context_snippet": "Shares  146,961  14,696,100  10 1 380.00"
+    }
+  },
+  {
+    "fact_id": "32d0617a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Right Of Use Asset",
+    "attribute": "_____________a____",
+    "value_text": "8,487",
+    "normalized_value": 8487.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Right of use asset       8,487.29       8,027.33       7,828.04",
+      "context_snippet": "Right of use asset       8,487.29       8,027.33       7,828.04"
+    }
+  },
+  {
+    "fact_id": "4836b5a1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Capital Work In Progress",
+    "attribute": "_a___a__________________",
+    "value_text": "647.71",
+    "normalized_value": 647.71,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Capital work in progress        647.71        940.83        767.55       267.22         8.80",
+      "context_snippet": "Capital work in progress        647.71        940.83        767.55       267.22         8.80"
+    }
+  },
+  {
+    "fact_id": "5f5ced6b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Intangible Assets",
+    "attribute": "_________a_______a_____",
+    "value_text": "4,074",
+    "normalized_value": 4074.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Other intangible assets       4,074.08        108.41        139.55       113.80        130.62",
+      "context_snippet": "Other intangible assets       4,074.08        108.41        139.55       113.80        130.62"
+    }
+  },
+  {
+    "fact_id": "fad55ea9",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Development",
+    "attribute": "___________",
+    "value_text": "20.73",
+    "normalized_value": 20.73,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "development        20.73        47.00          -        48.09          -",
+      "context_snippet": "development        20.73        47.00          -        48.09          -"
+    }
+  },
+  {
+    "fact_id": "39e937c5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Non -Current Assets",
+    "attribute": "___________________a_____",
+    "value_text": "237.13",
+    "normalized_value": 237.13,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Other non -current assets        237.13        13.05         47.47        13.64        134.27",
+      "context_snippet": "Other non -current assets        237.13        13.05         47.47        13.64        134.27"
+    }
+  },
+  {
+    "fact_id": "0e83bd56",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Total Non - Current Assets",
+    "attribute": "___a________________a_____",
+    "value_text": "40,934",
+    "normalized_value": 40934.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Total non - current assets      40,934.0 1      18,358.51       17,673.00",
+      "context_snippet": "Total non - current assets      40,934.0 1      18,358.51       17,673.00"
+    }
+  },
+  {
+    "fact_id": "f9f9cc2c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Inventories",
+    "attribute": "___________",
+    "value_text": "317.82",
+    "normalized_value": 317.82,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "Inventories        317.82        241.09        259.48       178.32        226.33",
+      "context_snippet": "Inventories        317.82        241.09        259.48       178.32        226.33"
+    }
+  },
+  {
+    "fact_id": "c09c70ee",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ii) Trade Receivables",
+    "attribute": "______a_________a____",
+    "value_text": "8,917",
+    "normalized_value": 8917.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "ii) Trade receivables       8,917.91       7,558.62       5,945.82",
+      "context_snippet": "ii) Trade receivables       8,917.91       7,558.62       5,945.82"
+    }
+  },
+  {
+    "fact_id": "d6c3ada6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Equivalents",
+    "attribute": "_____a_____",
+    "value_text": "3,609",
+    "normalized_value": 3609.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "equivalents       3,609.80       2,023.21       2,758.63",
+      "context_snippet": "equivalents       3,609.80       2,023.21       2,758.63"
+    }
+  },
+  {
+    "fact_id": "1811f9df",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Bank Balances",
+    "attribute": "_______a____a_a____",
+    "value_text": "15.78",
+    "normalized_value": 15.78,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 15,
+      "exact_quote": "iv) Other bank balances         -         -         15.78",
+      "context_snippet": "iv) Other bank balances         -         -         15.78"
+    }
+  },
+  {
+    "fact_id": "f32389ef",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Total Equity",
+    "attribute": "___a________",
+    "value_text": "59,798",
+    "normalized_value": 59798.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "Total equity      59,798.47      29,148. 37       28,367.97",
+      "context_snippet": "Total equity      59,798.47      29,148. 37       28,367.97"
+    }
+  },
+  {
+    "fact_id": "0e569ae8",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "I)   Borrowings",
+    "attribute": "_______________",
+    "value_text": "1,005",
+    "normalized_value": 1005.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "i)   Borrowings       1,005.28       1,329.84       1,316.09       998.02        356.20",
+      "context_snippet": "i)   Borrowings       1,005.28       1,329.84       1,316.09       998.02        356.20"
+    }
+  },
+  {
+    "fact_id": "02ce8c21",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ii)  Lease Liabilities",
+    "attribute": "_______a_____a________",
+    "value_text": "6,912",
+    "normalized_value": 6912.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "ii)  Lease liabilities       6,912.95       6,563.72       6,538.44",
+      "context_snippet": "ii)  Lease liabilities       6,912.95       6,563.72       6,538.44"
+    }
+  },
+  {
+    "fact_id": "e659f548",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Nterprises",
+    "attribute": "__________",
+    "value_text": "1.10",
+    "normalized_value": 1.1,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "enterprises         -         -          -        1.10         24.75",
+      "context_snippet": "enterprises         -         -          -        1.10         24.75"
+    }
+  },
+  {
+    "fact_id": "4b247d5d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Provisions",
+    "attribute": "__________",
+    "value_text": "406.55",
+    "normalized_value": 406.55,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "Provisions        406.55        214.58        219.16       166.12        108.90",
+      "context_snippet": "Provisions        406.55        214.58        219.16       166.12        108.90"
+    }
+  },
+  {
+    "fact_id": "d8a48d81",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Deferred Tax Liabilities (Net)",
+    "attribute": "__________a____a______________",
+    "value_text": "734.97",
+    "normalized_value": 734.97,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "Deferred tax liabilities (net)        734.97         -  - - -",
+      "context_snippet": "Deferred tax liabilities (net)        734.97         -  - - -"
+    }
+  },
+  {
+    "fact_id": "cab73324",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Liabilities",
+    "attribute": "__a________",
+    "value_text": "9,059",
+    "normalized_value": 9059.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "liabilities       9,059.75       8,108.14       8,073.69",
+      "context_snippet": "liabilities       9,059.75       8,108.14       8,073.69"
+    }
+  },
+  {
+    "fact_id": "28c7ab31",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "I) Borrowings",
+    "attribute": "_____________",
+    "value_text": "2,702",
+    "normalized_value": 2702.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "i) Borrowings       2,702.53",
+      "context_snippet": "i) Borrowings       2,702.53"
+    }
+  },
+  {
+    "fact_id": "2d4a3d22",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ii) Lease Liabilities",
+    "attribute": "______a_____a________",
+    "value_text": "2,211",
+    "normalized_value": 2211.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "ii) Lease liabilities       2,211.17       1,755.08       1,617.16",
+      "context_snippet": "ii) Lease liabilities       2,211.17       1,755.08       1,617.16"
+    }
+  },
+  {
+    "fact_id": "fd7f444f",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Small Enterprises",
+    "attribute": "__a______________",
+    "value_text": "38.38",
+    "normalized_value": 38.38,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 16,
+      "exact_quote": "small enterprises        38.38",
+      "context_snippet": "small enterprises        38.38"
+    }
+  },
+  {
+    "fact_id": "ecc37fb6",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Customers",
+    "attribute": "_________",
+    "value_text": "36,465",
+    "normalized_value": 36465.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "customers  36,465.27  8,035.88  (1.84)  - - 44,501.15",
+      "context_snippet": "customers  36,465.27  8,035.88  (1.84)  - - 44,501.15"
+    }
+  },
+  {
+    "fact_id": "c8b57504",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Income",
+    "attribute": "____________",
+    "value_text": "1,917",
+    "normalized_value": 1917.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "Other income  1,917.64  26.89  - - - 1,944.53",
+      "context_snippet": "Other income  1,917.64  26.89  - - - 1,944.53"
+    }
+  },
+  {
+    "fact_id": "7cece547",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Servicing Cost",
+    "attribute": "______________",
+    "value_text": "27,780",
+    "normalized_value": 27780.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "servicing cost  27,780.82  5,925.38  (1.84)  - - 33,706.20",
+      "context_snippet": "servicing cost  27,780.82  5,925.38  (1.84)  - - 33,706.20"
+    }
+  },
+  {
+    "fact_id": "8b5649d4",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Traded Goods",
+    "attribute": "__a_________",
+    "value_text": "102.08",
+    "normalized_value": 102.08,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "traded goods  102.08  - - - - 102.08",
+      "context_snippet": "traded goods  102.08  - - - - 102.08"
+    }
+  },
+  {
+    "fact_id": "e0eb6521",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Benefit Expense",
+    "attribute": "_______________",
+    "value_text": "6,109",
+    "normalized_value": 6109.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "benefit expense  6,109.23  856.04  - 115.10  115.10  7,080.37",
+      "context_snippet": "benefit expense  6,109.23  856.04  - 115.10  115.10  7,080.37"
+    }
+  },
+  {
+    "fact_id": "f76cef3b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Profit Or Loss",
+    "attribute": "______________",
+    "value_text": "91.95",
+    "normalized_value": 91.95,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "profit or loss  91.95  - - - - 91.95",
+      "context_snippet": "profit or loss  91.95  - - - - 91.95"
+    }
+  },
+  {
+    "fact_id": "e3f56eee",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Finance Costs",
+    "attribute": "___a_________",
+    "value_text": "886.27",
+    "normalized_value": 886.27,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "Finance costs  886.27  369.28  - - - 1,255.55",
+      "context_snippet": "Finance costs  886.27  369.28  - - - 1,255.55"
+    }
+  },
+  {
+    "fact_id": "2445df63",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Expense",
+    "attribute": "_______",
+    "value_text": "3,546",
+    "normalized_value": 3546.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "expense  3,546.20  718.98  - 1,320.19  1,320.19  5,585.37",
+      "context_snippet": "expense  3,546.20  718.98  - 1,320.19  1,320.19  5,585.37"
+    }
+  },
+  {
+    "fact_id": "d030b965",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Expenses",
+    "attribute": "______________",
+    "value_text": "3,610",
+    "normalized_value": 3610.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 22,
+      "exact_quote": "Other expenses  3,610.49  503.19  - 95.00  95.00  4,208.68",
+      "context_snippet": "Other expenses  3,610.49  503.19  - 95.00  95.00  4,208.68"
+    }
+  },
+  {
+    "fact_id": "44ac3bd1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Benefit Plans",
+    "attribute": "__________a__",
+    "value_text": "10.38",
+    "normalized_value": 10.38,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 23,
+      "exact_quote": "benefit plans  10.38  9.70 - - - 20.08",
+      "context_snippet": "benefit plans  10.38  9.70 - - - 20.08"
+    }
+  },
+  {
+    "fact_id": "3a950742",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Subtotal (A)",
+    "attribute": "______a___a_",
+    "value_text": "10.38",
+    "normalized_value": 10.38,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 23,
+      "exact_quote": "Subtotal (a)  10.38  6.31 - - - 16.69",
+      "context_snippet": "Subtotal (a)  10.38  6.31 - - - 16.69"
+    }
+  },
+  {
+    "fact_id": "2f1e42a0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Current Assets",
+    "attribute": "______________a_____",
+    "value_text": "1,170",
+    "normalized_value": 1170.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 25,
+      "exact_quote": "Other current assets      1,170.16  216.22  -    -    -    1,386.38",
+      "context_snippet": "Other current assets      1,170.16  216.22  -    -    -    1,386.38"
+    }
+  },
+  {
+    "fact_id": "c6de1838",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ficate Of Incorporation Dated October 12",
+    "attribute": "___a______________a______a____",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "“Delhivery Limited” and a fresh certificate of incorporation dated October 12,  2021 was issued by the RoC.",
+      "context_snippet": "“Delhivery Limited” and a fresh certificate of incorporation dated October 12,  2021 was issued by the RoC."
+    }
+  },
+  {
+    "fact_id": "f4465209",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "New Delhi",
+    "attribute": "_________",
+    "value_text": "110037",
+    "normalized_value": 110037.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "New Delhi  110037  Delhi , India",
+      "context_snippet": "New Delhi  110037  Delhi , India"
+    }
+  },
+  {
+    "fact_id": "211d0c32",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "An And Non-Executive Independent Director",
+    "attribute": "a__a__________________________",
+    "value_text": "00162957",
+    "normalized_value": 162957.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Chairman and Non-Executive Independent Director  00162957  K-42, NDSE -2, Andrewsganj S.O., South Delhi,",
+      "context_snippet": "Chairman and Non-Executive Independent Director  00162957  K-42, NDSE -2, Andrewsganj S.O., South Delhi,"
+    }
+  },
+  {
+    "fact_id": "8551e050",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ging Director And Chief Executive Officer",
+    "attribute": "______________a_______________",
+    "value_text": "05131571",
+    "normalized_value": 5131571.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Managing Director and Chief Executive Officer  05131571  House No. 367/4, B5 Plot No., Villa No. 9,",
+      "context_snippet": "Managing Director and Chief Executive Officer  05131571  House No. 367/4, B5 Plot No., Villa No. 9,"
+    }
+  },
+  {
+    "fact_id": "fce68ad7",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Utive Director And Chief Business Officer",
+    "attribute": "_______________a______________",
+    "value_text": "01432123",
+    "normalized_value": 1432123.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Executive Director and Chief Business Officer  01432123  C 77, 3rd Floor, Panchsheel Enclave, Delhi",
+      "context_snippet": "Executive Director and Chief Business Officer  01432123  C 77, 3rd Floor, Panchsheel Enclave, Delhi"
+    }
+  },
+  {
+    "fact_id": "2dd9ec46",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ive Director And Chief Technology Officer",
+    "attribute": "_____________a________________",
+    "value_text": "02227607",
+    "normalized_value": 2227607.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Executive Director and Chief Technology Officer  02227607  295 DDA Flats, Gulmohar Enclave, Andrewsganj",
+      "context_snippet": "Executive Director and Chief Technology Officer  02227607  295 DDA Flats, Gulmohar Enclave, Andrewsganj"
+    }
+  },
+  {
+    "fact_id": "4c25dfd1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Nominee Director",
+    "attribute": "______________________________",
+    "value_text": "09431299",
+    "normalized_value": 9431299.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Non-Executive Nominee Director  09431299  1895 Hazelton Dr, Germantown, TN 38138 -2658",
+      "context_snippet": "Non-Executive Nominee Director  09431299  1895 Hazelton Dr, Germantown, TN 38138 -2658"
+    }
+  },
+  {
+    "fact_id": "b17933ee",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Nominee Director",
+    "attribute": "______________________________",
+    "value_text": "02442753",
+    "normalized_value": 2442753.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Non-Executive Nominee Director  02442753  36, Hamilton Terrace, St. John Wood, London,",
+      "context_snippet": "Non-Executive Nominee Director  02442753  36, Hamilton Terrace, St. John Wood, London,"
+    }
+  },
+  {
+    "fact_id": "ac0e888f",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Nominee Director",
+    "attribute": "______________________________",
+    "value_text": "01173669",
+    "normalized_value": 1173669.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 30,
+      "exact_quote": "Non-Executive Nominee Director  01173669  3/7 Shree Sadan, Carmichael Road, Mumbai",
+      "context_snippet": "Non-Executive Nominee Director  01173669  3/7 Shree Sadan, Carmichael Road, Mumbai"
+    }
+  },
+  {
+    "fact_id": "358e61cf",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Independent Director",
+    "attribute": "______________________________",
+    "value_text": "00046081",
+    "normalized_value": 46081.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 31,
+      "exact_quote": "Non-Executive Independent Director  00046081  A52, Ahuja Tower CHS, Rajabhau Desai Marg,",
+      "context_snippet": "Non-Executive Independent Director  00046081  A52, Ahuja Tower CHS, Rajabhau Desai Marg,"
+    }
+  },
+  {
+    "fact_id": "8033f87f",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "N-Executive Independent Director 00031034",
+    "attribute": "______________________________",
+    "value_text": "10",
+    "normalized_value": 10.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 31,
+      "exact_quote": "Non-Executive Independent Director 00031034  10 S/F, Paschim Marg, Vasant Vihar, New Delhi",
+      "context_snippet": "Non-Executive Independent Director 00031034  10 S/F, Paschim Marg, Vasant Vihar, New Delhi"
+    }
+  },
+  {
+    "fact_id": "9b30894f",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Independent Director",
+    "attribute": "______________________________",
+    "value_text": "05251806  B",
+    "normalized_value": 5251806.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 31,
+      "exact_quote": "Non-Executive Independent Director  05251806  B-1002, Rustomjee Oriana, MIG Colony, Gandhi",
+      "context_snippet": "Non-Executive Independent Director  05251806  B-1002, Rustomjee Oriana, MIG Colony, Gandhi"
+    }
+  },
+  {
+    "fact_id": "cbf37ea4",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Non-Executive Independent Director",
+    "attribute": "______________________________",
+    "value_text": "00754512",
+    "normalized_value": 754512.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 31,
+      "exact_quote": "Non-Executive Independent Director  00754512  1432 Great Heron Dr, Santa Rosa, CA 95409 -",
+      "context_snippet": "Non-Executive Independent Director  00754512  1432 Great Heron Dr, Santa Rosa, CA 95409 -"
+    }
+  },
+  {
+    "fact_id": "ac97a859",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "St Floor",
+    "attribute": "________",
+    "value_text": "27",
+    "normalized_value": 27.0,
+    "unit": "Numerical",
+    "time_period": "Unspecified",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 32,
+      "exact_quote": "1st Floor,  27 BKC , Plot No. C – 27, ‘G’ Block",
+      "context_snippet": "1st Floor,  27 BKC , Plot No. C – 27, ‘G’ Block"
+    }
+  },
+  {
+    "fact_id": "44544c72",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Sector 16B, Noida",
+    "attribute": "_______16_______a",
+    "value_text": "201301",
+    "normalized_value": 201301.0,
+    "unit": "Numerical",
+    "time_period": "Unspecified",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 34,
+      "exact_quote": "Sector 16B, Noida  201301",
+      "context_snippet": "Sector 16B, Noida  201301"
+    }
+  },
+  {
+    "fact_id": "da6e697d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Total",
+    "attribute": "___a_",
+    "value_text": "27,203",
+    "normalized_value": 27203.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 40,
+      "exact_quote": "Total  27,203,946  13,237.50",
+      "context_snippet": "Total  27,203,946  13,237.50"
+    }
+  },
+  {
+    "fact_id": "7fcf2f2c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "He Nine  Months Period Ended December 31",
+    "attribute": "______________________________",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 43,
+      "exact_quote": "213 for the nine  months period ended December 31,  2021.",
+      "context_snippet": "213 for the nine  months period ended December 31,  2021."
+    }
+  },
+  {
+    "fact_id": "9f0e7568",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Pin Code Reach",
+    "attribute": "___________a__",
+    "value_text": "13,485",
+    "normalized_value": 13485.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "PIN code reach  13,485  15,875  16,677  17,488",
+      "context_snippet": "PIN code reach  13,485  15,875  16,677  17,488"
+    }
+  },
+  {
+    "fact_id": "6099c3b5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Square Feet)",
+    "attribute": "___a________",
+    "value_text": "5.96",
+    "normalized_value": 5.96,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "square feet)  5.96 9.85 12.23  14.27",
+      "context_snippet": "square feet)  5.96 9.85 12.23  14.27"
+    }
+  },
+  {
+    "fact_id": "94dc3000",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Gateways",
+    "attribute": "____a___a__",
+    "value_text": "73",
+    "normalized_value": 73.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "No. of gateways  73 83 88 82",
+      "context_snippet": "No. of gateways  73 83 88 82"
+    }
+  },
+  {
+    "fact_id": "27642db3",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Day)",
+    "attribute": "_a__",
+    "value_text": "1.58",
+    "normalized_value": 1.58,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "parcels/day)  1.58 2.26 2.62 3.70",
+      "context_snippet": "parcels/day)  1.58 2.26 2.62 3.70"
+    }
+  },
+  {
+    "fact_id": "674a2413",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Number Of Delivery Points",
+    "attribute": "_________________________",
+    "value_text": "2,258",
+    "normalized_value": 2258.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "Number of delivery points  2,258  2,973  3,382  3,836",
+      "context_snippet": "Number of delivery points  2,258  2,973  3,382  3,836"
+    }
+  },
+  {
+    "fact_id": "a3007e80",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Team Size(1) 28,830",
+    "attribute": "__a____z__1__28_830",
+    "value_text": "40,416",
+    "normalized_value": 40416.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "Team size(1) 28,830  40,416  53,086  86,184",
+      "context_snippet": "Team size(1) 28,830  40,416  53,086  86,184"
+    }
+  },
+  {
+    "fact_id": "45ca75a7",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Active Customers 4,867",
+    "attribute": "___a________________4_867",
+    "value_text": "7,957",
+    "normalized_value": 7957.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 44,
+      "exact_quote": "No. of Active Customers 4,867  7,957  16,741  23,113",
+      "context_snippet": "No. of Active Customers 4,867  7,957  16,741  23,113"
+    }
+  },
+  {
+    "fact_id": "2df2141c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Pin Code Reach",
+    "attribute": "___________a__",
+    "value_text": "12,764",
+    "normalized_value": 12764.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "PIN code reach  12,764   13,087",
+      "context_snippet": "PIN code reach  12,764   13,087"
+    }
+  },
+  {
+    "fact_id": "ad8a4843",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Infrastructure (In Million Square Feet)",
+    "attribute": "____a_________________________",
+    "value_text": "2.62",
+    "normalized_value": 2.62,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Infrastructure (in million square feet)  2.62  2.85",
+      "context_snippet": "Infrastructure (in million square feet)  2.62  2.85"
+    }
+  },
+  {
+    "fact_id": "fc1c1990",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Gateways",
+    "attribute": "____a___a__",
+    "value_text": "38",
+    "normalized_value": 38.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "No. of gateways  38  40",
+      "context_snippet": "No. of gateways  38  40"
+    }
+  },
+  {
+    "fact_id": "039b38a5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Res, Including Partner Operated Locations",
+    "attribute": "________________a__________a__",
+    "value_text": "320",
+    "normalized_value": 320.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Number of service centres, including partner operated locations  320  343",
+      "context_snippet": "Number of service centres, including partner operated locations  320  343"
+    }
+  },
+  {
+    "fact_id": "8758875b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Team Size(1) 1,991",
+    "attribute": "__a____z__1__1_991",
+    "value_text": "2,092",
+    "normalized_value": 2092.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Team size(1) 1,991   2,092",
+      "context_snippet": "Team size(1) 1,991   2,092"
+    }
+  },
+  {
+    "fact_id": "40f11605",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Of Active Customers",
+    "attribute": "___a_______________",
+    "value_text": "5,234",
+    "normalized_value": 5234.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "No. of Active Customers  5,234   5,541",
+      "context_snippet": "No. of Active Customers  5,234   5,541"
+    }
+  },
+  {
+    "fact_id": "722b3c01",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Services",
+    "attribute": "________",
+    "value_text": "16,538",
+    "normalized_value": 16538.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Services  16,538.97  100.00%  27,748.25  99.79%  36,354.38  99.70%  26,350.52  99.67%  46,230.56  96.10%",
+      "context_snippet": "Services  16,538.97  100.00%  27,748.25  99.79%  36,354.38  99.70%  26,350.52  99.67%  46,230.56  96.10%"
+    }
+  },
+  {
+    "fact_id": "136b23ba",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Services",
+    "attribute": "________",
+    "value_text": "13,730",
+    "normalized_value": 13730.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Services  13,730.73  83.02%  19,288.56  69.37%  25,505.15  69.94%  18,830.38  71.22%  29,587.59  61.51%",
+      "context_snippet": "Services  13,730.73  83.02%  19,288.56  69.37%  25,505.15  69.94%  18,830.38  71.22%  29,587.59  61.51%"
+    }
+  },
+  {
+    "fact_id": "0aeae419",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Load Services",
+    "attribute": "__a__________",
+    "value_text": "1,402",
+    "normalized_value": 1402.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Load Services  1,402.21  8.48%  2,306.50  8.30%  3,841.61  10.53%  2,770.08  10.48%  8,639.64  17.96%",
+      "context_snippet": "Load Services  1,402.21  8.48%  2,306.50  8.30%  3,841.61  10.53%  2,770.08  10.48%  8,639.64  17.96%"
+    }
+  },
+  {
+    "fact_id": "b8d5026c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Services",
+    "attribute": "________",
+    "value_text": "1,320",
+    "normalized_value": 1320.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 45,
+      "exact_quote": "Services  1,320.09  7.98%  2,149.22  7.73%  3,900.58  10.70%  2,702.04  10.22%  3,505.92  7.29%",
+      "context_snippet": "Services  1,320.09  7.98%  2,149.22  7.73%  3,900.58  10.70%  2,702.04  10.22%  3,505.92  7.29%"
+    }
+  },
+  {
+    "fact_id": "c6138c21",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Load  Tonnes",
+    "attribute": "__a_________",
+    "value_text": "121,626",
+    "normalized_value": 121626.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 46,
+      "exact_quote": "Load  tonnes  121,626  243,400  373,854  235,585  438,795",
+      "context_snippet": "Load  tonnes  121,626  243,400  373,854  235,585  438,795"
+    }
+  },
+  {
+    "fact_id": "3c43b006",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "In Fiscal 2020  And Approximately",
+    "attribute": "_______a__2020__a___a_______a_",
+    "value_text": "5.5",
+    "normalized_value": 5.5,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 46,
+      "exact_quote": "approximately 3.5% in Fiscal 2020  and approximately  5.5% in Fiscal 2021 , as per the RedSeer Report, which has",
+      "context_snippet": "approximately 3.5% in Fiscal 2020  and approximately  5.5% in Fiscal 2021 , as per the RedSeer Report, which has"
+    }
+  },
+  {
+    "fact_id": "016b1da8",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "To Approximately",
+    "attribute": "___a_______a____",
+    "value_text": "70",
+    "normalized_value": 70.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 46,
+      "exact_quote": "of organized players from approximately 40% to approximately  70% during the same period. As per the RedSeer",
+      "context_snippet": "of organized players from approximately 40% to approximately  70% during the same period. As per the RedSeer"
+    }
+  },
+  {
+    "fact_id": "43236676",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Shipments  In Fiscal",
+    "attribute": "__________________a_",
+    "value_text": "2019",
+    "normalized_value": 2019.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 48,
+      "exact_quote": "shipments  in Fiscal  2019  to 5.26 million  shipments  in Fiscal  2021 on an annual basis. In May 2021, we  also",
+      "context_snippet": "shipments  in Fiscal  2019  to 5.26 million  shipments  in Fiscal  2021 on an annual basis. In May 2021, we  also"
+    }
+  },
+  {
+    "fact_id": "d2f70bd0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Million  Shipments  In Fiscal",
+    "attribute": "___________________________a_",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 48,
+      "exact_quote": "shipments  in Fiscal  2019  to 5.26 million  shipments  in Fiscal  2021 on an annual basis. In May 2021, we  also",
+      "context_snippet": "shipments  in Fiscal  2019  to 5.26 million  shipments  in Fiscal  2021 on an annual basis. In May 2021, we  also"
+    }
+  },
+  {
+    "fact_id": "018f198a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "In  Fiscal",
+    "attribute": "________a_",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 48,
+      "exact_quote": "volume. In  Fiscal  2021,  we delivered  373,854  tonnes  of freight,  growing  at a CAGR  of 75% between Fiscal",
+      "context_snippet": "volume. In  Fiscal  2021,  we delivered  373,854  tonnes  of freight,  growing  at a CAGR  of 75% between Fiscal"
+    }
+  },
+  {
+    "fact_id": "0f04f136",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "We Delivered",
+    "attribute": "____________",
+    "value_text": "373,854",
+    "normalized_value": 373854.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 48,
+      "exact_quote": "volume. In  Fiscal  2021,  we delivered  373,854  tonnes  of freight,  growing  at a CAGR  of 75% between Fiscal",
+      "context_snippet": "volume. In  Fiscal  2021,  we delivered  373,854  tonnes  of freight,  growing  at a CAGR  of 75% between Fiscal"
+    }
+  },
+  {
+    "fact_id": "f9ab7352",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "And Fiscal",
+    "attribute": "a_______a_",
+    "value_text": "2021",
+    "normalized_value": 2021.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 48,
+      "exact_quote": "2019 and Fiscal  2021.",
+      "context_snippet": "2019 and Fiscal  2021."
+    }
+  },
+  {
+    "fact_id": "ac5f8233",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "In January",
+    "attribute": "____a__a__",
+    "value_text": "2020",
+    "normalized_value": 2020.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 49,
+      "exact_quote": "In January  2020,  we acquired  Roadpiper  Technologies  Private  Limited,  a digital  freight  broker  with fleet",
+      "context_snippet": "In January  2020,  we acquired  Roadpiper  Technologies  Private  Limited,  a digital  freight  broker  with fleet"
+    }
+  },
+  {
+    "fact_id": "5654a06c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "On December",
+    "attribute": "___________",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 51,
+      "exact_quote": "On December  31, 2021,  we acquired 34.55% of the share capital (on a fully -diluted basis) of Falcon, a",
+      "context_snippet": "On December  31, 2021,  we acquired 34.55% of the share capital (on a fully -diluted basis) of Falcon, a"
+    }
+  },
+  {
+    "fact_id": "41eabc2f",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Network Of",
+    "attribute": "__________",
+    "value_text": "4,565",
+    "normalized_value": 4565.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 52,
+      "exact_quote": "network of  4,565 partner stores who provide us with flexible delivery capacity in their catchment areas.",
+      "context_snippet": "network of  4,565 partner stores who provide us with flexible delivery capacity in their catchment areas."
+    }
+  },
+  {
+    "fact_id": "9696d7f3",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "As Of February",
+    "attribute": "a__________a__",
+    "value_text": "28",
+    "normalized_value": 28.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 55,
+      "exact_quote": "(4) As of February  28, 2022.",
+      "context_snippet": "(4) As of February  28, 2022."
+    }
+  },
+  {
+    "fact_id": "55a121a1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Mill Ion In Fiscal 2019 To",
+    "attribute": "________________a__2019___",
+    "value_text": "₹36,465",
+    "normalized_value": 36465.0,
+    "unit": "INR",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 56,
+      "exact_quote": "contracts with customers has improved from ₹16,538.97 mill ion in Fiscal 2019 to  ₹36,465.27 million in Fiscal",
+      "context_snippet": "contracts with customers has improved from ₹16,538.97 mill ion in Fiscal 2019 to  ₹36,465.27 million in Fiscal"
+    }
+  },
+  {
+    "fact_id": "1d4b42ba",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "December",
+    "attribute": "________",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 56,
+      "exact_quote": "December  31, 2021. Our fair value loss on financial liabilities at fair value through profit or loss as a percentage",
+      "context_snippet": "December  31, 2021. Our fair value loss on financial liabilities at fair value through profit or loss as a percentage"
+    }
+  },
+  {
+    "fact_id": "7a259954",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Revenue From Contract With Customers Was",
+    "attribute": "__________________a___________",
+    "value_text": "89.53",
+    "normalized_value": 89.53,
+    "unit": "Numerical",
+    "time_period": "2019",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 56,
+      "exact_quote": "of revenue from contract with customers was  89.53%, nil, 0.25% , nil,  and 6.23% in Fiscal 2019, Fiscal 2020,",
+      "context_snippet": "of revenue from contract with customers was  89.53%, nil, 0.25% , nil,  and 6.23% in Fiscal 2019, Fiscal 2020,"
+    }
+  },
+  {
+    "fact_id": "12d28b2c",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Revenue From Contract With Customers Was",
+    "attribute": "__________________a___________",
+    "value_text": "89.53",
+    "normalized_value": 89.53,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 59,
+      "exact_quote": "of revenue from contract with customers was  89.53%, nil, 0.25%, nil and 6.23% in Fiscal 2019, Fiscal 2020,",
+      "context_snippet": "of revenue from contract with customers was  89.53%, nil, 0.25%, nil and 6.23% in Fiscal 2019, Fiscal 2020,"
+    }
+  },
+  {
+    "fact_id": "fea6b465",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Fleet,  To Register  Their Assets  (Over",
+    "attribute": "___________________________a__",
+    "value_text": "50,000",
+    "normalized_value": 50000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 62,
+      "exact_quote": "of fleet capacity, including ou r self -owned fleet,  to register  their assets  (over  50,000 vehicles)  with us, enter",
+      "context_snippet": "of fleet capacity, including ou r self -owned fleet,  to register  their assets  (over  50,000 vehicles)  with us, enter"
+    }
+  },
+  {
+    "fact_id": "dd7a633a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Operations And Network Design",
+    "attribute": "____a______a_________________",
+    "value_text": "13,35",
+    "normalized_value": 1335.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 67,
+      "exact_quote": "Operations and Network Design  13,35 5",
+      "context_snippet": "Operations and Network Design  13,35 5"
+    }
+  },
+  {
+    "fact_id": "ff03d9a2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Business Development",
+    "attribute": "____________________",
+    "value_text": "598",
+    "normalized_value": 598.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 67,
+      "exact_quote": "Sales & Business Development  598",
+      "context_snippet": "Sales & Business Development  598"
+    }
+  },
+  {
+    "fact_id": "4e078beb",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Engineering, Data Sciences And Product",
+    "attribute": "______________a_a__________a__",
+    "value_text": "505",
+    "normalized_value": 505.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 67,
+      "exact_quote": "Engineering, Data Sciences and Product  505",
+      "context_snippet": "Engineering, Data Sciences and Product  505"
+    }
+  },
+  {
+    "fact_id": "2059280e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Customer Service",
+    "attribute": "________________",
+    "value_text": "432",
+    "normalized_value": 432.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 67,
+      "exact_quote": "Customer Service  432",
+      "context_snippet": "Customer Service  432"
+    }
+  },
+  {
+    "fact_id": "0d072ded",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Other Corporate Functions",
+    "attribute": "____________a____________",
+    "value_text": "502",
+    "normalized_value": 502.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 67,
+      "exact_quote": "Other Corporate Functions  502",
+      "context_snippet": "Other Corporate Functions  502"
+    }
+  },
+  {
+    "fact_id": "f52c0057",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Sector",
+    "attribute": "______",
+    "value_text": "44",
+    "normalized_value": 44.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 68,
+      "exact_quote": "Sector  44, Gurugram - 122002, Haryana, India. The lease is valid until May 31, 2024 with an option to renew the",
+      "context_snippet": "Sector  44, Gurugram - 122002, Haryana, India. The lease is valid until May 31, 2024 with an option to renew the"
+    }
+  },
+  {
+    "fact_id": "e0716091",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "On Page",
+    "attribute": "____a__",
+    "value_text": "270",
+    "normalized_value": 270.0,
+    "unit": "Numerical",
+    "time_period": "2013",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 69,
+      "exact_quote": "Committees  – Corporate  Social  Responsibility  Committee ” on page  270.",
+      "context_snippet": "Committees  – Corporate  Social  Responsibility  Committee ” on page  270."
+    }
+  },
+  {
+    "fact_id": "4c6cf6e5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Cal  Offices  In The First Week  Of March",
+    "attribute": "_a____________________________",
+    "value_text": "2020",
+    "normalized_value": 2020.0,
+    "unit": "Numerical",
+    "time_period": "2013",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 69,
+      "exact_quote": "distancing.  We shut down  our physical  offices  in the first week  of March  2020  in anticipation  of nationwide",
+      "context_snippet": "distancing.  We shut down  our physical  offices  in the first week  of March  2020  in anticipation  of nationwide"
+    }
+  },
+  {
+    "fact_id": "38173211",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Year",
+    "attribute": "__a_",
+    "value_text": "1,414",
+    "normalized_value": 1414.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 70,
+      "exact_quote": "period/year  1,414.26  2,748.43  3,668.22  3,995.34  6,797.75",
+      "context_snippet": "period/year  1,414.26  2,748.43  3,668.22  3,995.34  6,797.75"
+    }
+  },
+  {
+    "fact_id": "7fbf9085",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Each And",
+    "attribute": "_a___a__",
+    "value_text": "300,000",
+    "normalized_value": 300000.0,
+    "unit": "Numerical",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 72,
+      "exact_quote": "share capital from ₹ 9,000,000 divided into 600,000 equity shares of ₹ 10 each and  300,000",
+      "context_snippet": "share capital from ₹ 9,000,000 divided into 600,000 equity shares of ₹ 10 each and  300,000"
+    }
+  },
+  {
+    "fact_id": "ae9b81e5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Each",
+    "attribute": "_a__",
+    "value_text": "450,000",
+    "normalized_value": 450000.0,
+    "unit": "Numerical",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 73,
+      "exact_quote": "divided into 600,000 equity shares of ₹10 each , 300,000 preference shares of ₹10 each,  450,000",
+      "context_snippet": "divided into 600,000 equity shares of ₹10 each , 300,000 preference shares of ₹10 each,  450,000"
+    }
+  },
+  {
+    "fact_id": "ad5e9003",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Divided Into",
+    "attribute": "____________",
+    "value_text": "600,000",
+    "normalized_value": 600000.0,
+    "unit": "Numerical",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 73,
+      "exact_quote": "share capital from ₹58,500,000  divided into  600,000 equity share s of ₹10 each , 300,000",
+      "context_snippet": "share capital from ₹58,500,000  divided into  600,000 equity share s of ₹10 each , 300,000"
+    }
+  },
+  {
+    "fact_id": "55beabe1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Each",
+    "attribute": "_a__",
+    "value_text": "300,000",
+    "normalized_value": 300000.0,
+    "unit": "Numerical",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 73,
+      "exact_quote": "divided in to 2,200,228 equity shares of ₹ 10 each,  300,000 preference shares of ₹ 10 each and",
+      "context_snippet": "divided in to 2,200,228 equity shares of ₹ 10 each,  300,000 preference shares of ₹ 10 each and"
+    }
+  },
+  {
+    "fact_id": "99dfbf7d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Each",
+    "attribute": "_a__",
+    "value_text": "300,000",
+    "normalized_value": 300000.0,
+    "unit": "Numerical",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 73,
+      "exact_quote": "share c apital from ₹456,035,980 divided in to 2,200,228 equity shares of ₹ 10 each,  300,000",
+      "context_snippet": "share c apital from ₹456,035,980 divided in to 2,200,228 equity shares of ₹ 10 each,  300,000"
+    }
+  },
+  {
+    "fact_id": "6fce5328",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Authorized Share Capital From",
+    "attribute": "a______z_____a____a___a______",
+    "value_text": "₹1,192",
+    "normalized_value": 1192.0,
+    "unit": "INR",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 73,
+      "exact_quote": "authorized share capital from  ₹1,192,535,980 divided into 72,350,228 equity shares of ₹10",
+      "context_snippet": "authorized share capital from  ₹1,192,535,980 divided into 72,350,228 equity shares of ₹10"
+    }
+  },
+  {
+    "fact_id": "b991c834",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Share Capital From",
+    "attribute": "__a____a___a______",
+    "value_text": "₹1,192",
+    "normalized_value": 1192.0,
+    "unit": "INR",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 74,
+      "exact_quote": "share capital from  ₹1,192,535,980 divided into 723,502,280 Equity Shares of ₹1 each, 300,000",
+      "context_snippet": "share capital from  ₹1,192,535,980 divided into 723,502,280 Equity Shares of ₹1 each, 300,000"
+    }
+  },
+  {
+    "fact_id": "cc7b6944",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Es, Central Registration Centre, Gurugram",
+    "attribute": "_________a_________a__________",
+    "value_text": "122050",
+    "normalized_value": 122050.0,
+    "unit": "Numerical",
+    "time_period": "2020",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 80,
+      "exact_quote": "with the Deputy Registrar of Companies, Central Registration Centre, Gurugram  122050  Haryana, India . The",
+      "context_snippet": "with the Deputy Registrar of Companies, Central Registration Centre, Gurugram  122050  Haryana, India . The"
+    }
+  },
+  {
+    "fact_id": "3777eef0",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "S, The Authorised Share Capital Of Dcbspl",
+    "attribute": "_______a____________a____a___a",
+    "value_text": "₹100,000",
+    "normalized_value": 100000.0,
+    "unit": "INR",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 81,
+      "exact_quote": "As on the date of this Prospectus, the authorised share capital of DCBSPL  is ₹100,000,000 divided into 10,000,000",
+      "context_snippet": "As on the date of this Prospectus, the authorised share capital of DCBSPL  is ₹100,000,000 divided into 10,000,000"
+    }
+  },
+  {
+    "fact_id": "7a52ec48",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "D Paid -Up Equity Share Capital Of Dcbspl",
+    "attribute": "___a________________a____a___a",
+    "value_text": "₹55,100",
+    "normalized_value": 55100.0,
+    "unit": "INR",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 81,
+      "exact_quote": "equity shares of ₹10  each. The issued, subscribed and paid -up equity share capital of DCBSPL  is ₹55,100,000",
+      "context_snippet": "equity shares of ₹10  each. The issued, subscribed and paid -up equity share capital of DCBSPL  is ₹55,100,000"
+    }
+  },
+  {
+    "fact_id": "730231da",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "S, The Authorised Share Capital Of Spoton",
+    "attribute": "_______a____________a____a___a",
+    "value_text": "₹1,880",
+    "normalized_value": 1880.0,
+    "unit": "INR",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 81,
+      "exact_quote": "As on the date of this Prospectus, the authorised share capital of Spoton  is ₹1,880,000,000  divided i nto",
+      "context_snippet": "As on the date of this Prospectus, the authorised share capital of Spoton  is ₹1,880,000,000  divided i nto"
+    }
+  },
+  {
+    "fact_id": "ec9e035e",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "S, The Authorise D Share Capital Of Sscpl",
+    "attribute": "_______a_____________a____a___",
+    "value_text": "₹500,000",
+    "normalized_value": 500000.0,
+    "unit": "INR",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 81,
+      "exact_quote": "As on the date of this Prospectus, the authorise d share capital of SSCPL  is ₹500,000  divided into 5,000 equity",
+      "context_snippet": "As on the date of this Prospectus, the authorise d share capital of SSCPL  is ₹500,000  divided into 5,000 equity"
+    }
+  },
+  {
+    "fact_id": "13e7e0a7",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Nd Paid -Up Equity Share Capital Of Sscpl",
+    "attribute": "____a________________a____a___",
+    "value_text": "₹500,000",
+    "normalized_value": 500000.0,
+    "unit": "INR",
+    "time_period": "2011",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 81,
+      "exact_quote": "shares of ₹ 100 each. The issued, subscribed and paid -up equity share capital of SSCPL  is ₹500,000 divided into",
+      "context_snippet": "shares of ₹ 100 each. The issued, subscribed and paid -up equity share capital of SSCPL  is ₹500,000 divided into"
+    }
+  },
+  {
+    "fact_id": "905bcda4",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Tal Of Dcl Is Gbp 2 ,269,165 Divided Into",
+    "attribute": "_a________________2__269_165__",
+    "value_text": "2,269",
+    "normalized_value": 2269.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 82,
+      "exact_quote": "As on the date of this Prospectus, the authorised share capital of DCL is GBP 2 ,269,165 divided into  2,269,165",
+      "context_snippet": "As on the date of this Prospectus, the authorised share capital of DCL is GBP 2 ,269,165 divided into  2,269,165"
+    }
+  },
+  {
+    "fact_id": "b4c2a8aa",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "The Authorised Share Capital Of Dhpl Is",
+    "attribute": "____a____________a____a___a___",
+    "value_text": "2,209",
+    "normalized_value": 2209.0,
+    "unit": "Numerical",
+    "time_period": "2016",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 82,
+      "exact_quote": "As on the date of this Prospectus, the authorised share capital of DHPL is  2,209,446 divided into 2,209,446",
+      "context_snippet": "As on the date of this Prospectus, the authorised share capital of DHPL is  2,209,446 divided into 2,209,446"
+    }
+  },
+  {
+    "fact_id": "710b0b42",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Our Company Holds",
+    "attribute": "________a________",
+    "value_text": "6,631",
+    "normalized_value": 6631.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 83,
+      "exact_quote": "Our Company holds  6,631,060 equity shares of Delhivery USA aggregating to 100% of the total equity holding",
+      "context_snippet": "Our Company holds  6,631,060 equity shares of Delhivery USA aggregating to 100% of the total equity holding"
+    }
+  },
+  {
+    "fact_id": "5d701cb1",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "At 16192 Coastal Highway, Lewes, Delaware",
+    "attribute": "a__16192___a__a_______a_______",
+    "value_text": "19958",
+    "normalized_value": 19958.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 83,
+      "exact_quote": "U.S.A. The registered office of Delhivery Robotics is  at 16192 Coastal Highway, Lewes, Delaware  19958, County",
+      "context_snippet": "U.S.A. The registered office of Delhivery Robotics is  at 16192 Coastal Highway, Lewes, Delaware  19958, County"
+    }
+  },
+  {
+    "fact_id": "71d89ba4",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Srivatsan Rajan",
+    "attribute": "____a__a___a_a_",
+    "value_text": "57",
+    "normalized_value": 57.0,
+    "unit": "Numerical",
+    "time_period": "2014",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 86,
+      "exact_quote": "Srivatsan Rajan  57 Indian companies",
+      "context_snippet": "Srivatsan Rajan  57 Indian companies"
+    }
+  },
+  {
+    "fact_id": "0b283421",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Deepak Kapoor",
+    "attribute": "____a___a____",
+    "value_text": "7.50",
+    "normalized_value": 7.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Deepak Kapoor  7.50",
+      "context_snippet": "Deepak Kapoor  7.50"
+    }
+  },
+  {
+    "fact_id": "51fab543",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kalpana Jaisingh Morparia",
+    "attribute": "_a__a_a__a___________a__a",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Kalpana Jaisingh Morparia  6.50",
+      "context_snippet": "Kalpana Jaisingh Morparia  6.50"
+    }
+  },
+  {
+    "fact_id": "5beabace",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Romesh Sobti",
+    "attribute": "____________",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Romesh Sobti  6.50",
+      "context_snippet": "Romesh Sobti  6.50"
+    }
+  },
+  {
+    "fact_id": "d5ce7274",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Saugata Gupta",
+    "attribute": "_a__a_a_____a",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Saugata Gupta  6.50",
+      "context_snippet": "Saugata Gupta  6.50"
+    }
+  },
+  {
+    "fact_id": "98e3276d",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Srivatsan Rajan",
+    "attribute": "____a__a___a_a_",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Srivatsan Rajan  6.50",
+      "context_snippet": "Srivatsan Rajan  6.50"
+    }
+  },
+  {
+    "fact_id": "01fd71f4",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Deepak Kapoor",
+    "attribute": "____a___a____",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Deepak Kapoor  6.50",
+      "context_snippet": "Deepak Kapoor  6.50"
+    }
+  },
+  {
+    "fact_id": "543d3598",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Srivatsan Rajan",
+    "attribute": "____a__a___a_a_",
+    "value_text": "6.50",
+    "normalized_value": 6.5,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 89,
+      "exact_quote": "Srivatsan Rajan  6.50",
+      "context_snippet": "Srivatsan Rajan  6.50"
+    }
+  },
+  {
+    "fact_id": "896a9635",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Tra Shall Receive A Gross Amount Equal To",
+    "attribute": "__a___a___________a_______a___",
+    "value_text": "₹49.03 million",
+    "normalized_value": 49.03,
+    "unit": "INR",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "24, 2021, Abhik Mitra shall receive a gross amount equal to  ₹49.03 million on the date of cessation of",
+      "context_snippet": "24, 2021, Abhik Mitra shall receive a gross amount equal to  ₹49.03 million on the date of cessation of"
+    }
+  },
+  {
+    "fact_id": "a0ebe5d9",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Sahil Barua",
+    "attribute": "_a_____a__a",
+    "value_text": "13,407",
+    "normalized_value": 13407.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Sahil Barua  13,407,798  8,668,000  Nil 2.08%",
+      "context_snippet": "Sahil Barua  13,407,798  8,668,000  Nil 2.08%"
+    }
+  },
+  {
+    "fact_id": "bb6187cb",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Suraj Saharan",
+    "attribute": "___a___a_a_a_",
+    "value_text": "10,994",
+    "normalized_value": 10994.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Suraj Saharan  10,994,300  758,000  Nil 1.71%",
+      "context_snippet": "Suraj Saharan  10,994,300  758,000  Nil 1.71%"
+    }
+  },
+  {
+    "fact_id": "0faaa9d2",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Kapil Bharati",
+    "attribute": "_a______a_a__",
+    "value_text": "6,694",
+    "normalized_value": 6694.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Kapil Bharati  6,694,800  1,892,800  Nil 1.04%",
+      "context_snippet": "Kapil Bharati  6,694,800  1,892,800  Nil 1.04%"
+    }
+  },
+  {
+    "fact_id": "32e87938",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Ajith Pai Mangalore",
+    "attribute": "a______a___a__a____",
+    "value_text": "5,172",
+    "normalized_value": 5172.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Ajith Pai Mangalore  5,172,600  1,393,100  81,200  0.80%",
+      "context_snippet": "Ajith Pai Mangalore  5,172,600  1,393,100  81,200  0.80%"
+    }
+  },
+  {
+    "fact_id": "55170ba9",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Barasia",
+    "attribute": "_a_a__a",
+    "value_text": "4,762",
+    "normalized_value": 4762.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Barasia  4,762,700 1,463,300  98,800",
+      "context_snippet": "Barasia  4,762,700 1,463,300  98,800"
+    }
+  },
+  {
+    "fact_id": "c10a571b",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Amit Agarwal",
+    "attribute": "a____a_a__a_",
+    "value_text": "3,041",
+    "normalized_value": 3041.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Amit Agarwal  3,041,550  1,161,600  Nil 0.47%",
+      "context_snippet": "Amit Agarwal  3,041,550  1,161,600  Nil 0.47%"
+    }
+  },
+  {
+    "fact_id": "8858842a",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Srivatsan Rajan",
+    "attribute": "____a__a___a_a_",
+    "value_text": "155,000",
+    "normalized_value": 155000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Srivatsan Rajan  155,000  (1) Nil Nil 0.02%",
+      "context_snippet": "Srivatsan Rajan  155,000  (1) Nil Nil 0.02%"
+    }
+  },
+  {
+    "fact_id": "6ce49794",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Deepak Kapoor",
+    "attribute": "____a___a____",
+    "value_text": "100,000",
+    "normalized_value": 100000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Deepak Kapoor  100,000  (2) Nil Nil 0.02%",
+      "context_snippet": "Deepak Kapoor  100,000  (2) Nil Nil 0.02%"
+    }
+  },
+  {
+    "fact_id": "6c8bbeb5",
+    "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+    "subject": "Pooja Gupta  Nil 900,000",
+    "attribute": "____a_____a______900_000",
+    "value_text": "50,000",
+    "normalized_value": 50000.0,
+    "unit": "Numerical",
+    "time_period": "2021",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "01-delhivery-prospectus-2022-excerpt.pdf",
+      "page_number": 99,
+      "exact_quote": "Pooja Gupta  Nil 900,000  50,000  0.00%",
+      "context_snippet": "Pooja Gupta  Nil 900,000  50,000  0.00%"
+    }
+  },
+  {
+    "fact_id": "1d1fe10b",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Introduction",
+    "attribute": "____________",
+    "value_text": "1",
+    "normalized_value": 1.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Introduction  1",
+      "context_snippet": "Introduction  1"
+    }
+  },
+  {
+    "fact_id": "60a699e6",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Our Sevices",
+    "attribute": "___________",
+    "value_text": "4",
+    "normalized_value": 4.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Our Sevices                                         4-5",
+      "context_snippet": "Our Sevices                                         4-5"
+    }
+  },
+  {
+    "fact_id": "fafcc59f",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Highlights",
+    "attribute": "__________",
+    "value_text": "6",
+    "normalized_value": 6.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Highlights  6-9",
+      "context_snippet": "Highlights  6-9"
+    }
+  },
+  {
+    "fact_id": "aea5b5e0",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Financial Performance",
+    "attribute": "___a___a_________a___",
+    "value_text": "10",
+    "normalized_value": 10.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Financial Performance  10-11",
+      "context_snippet": "Financial Performance  10-11"
+    }
+  },
+  {
+    "fact_id": "70d9fbcc",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Letter To Shareholders",
+    "attribute": "____________a_________",
+    "value_text": "12",
+    "normalized_value": 12.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Letter to Shareholders  12-15",
+      "context_snippet": "Letter to Shareholders  12-15"
+    }
+  },
+  {
+    "fact_id": "93a48460",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Commerce",
+    "attribute": "________",
+    "value_text": "16",
+    "normalized_value": 16.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Commerce   16-35",
+      "context_snippet": "Commerce   16-35"
+    }
+  },
+  {
+    "fact_id": "51d836ee",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "People Initiatives",
+    "attribute": "____________a_____",
+    "value_text": "32",
+    "normalized_value": 32.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "People Initiatives  32-35",
+      "context_snippet": "People Initiatives  32-35"
+    }
+  },
+  {
+    "fact_id": "ab3b66da",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Esg Updates",
+    "attribute": "_______a___",
+    "value_text": "36",
+    "normalized_value": 36.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "ESG Updates    36-39",
+      "context_snippet": "ESG Updates    36-39"
+    }
+  },
+  {
+    "fact_id": "7eea626e",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Board Of Directors",
+    "attribute": "__a_______________",
+    "value_text": "40",
+    "normalized_value": 40.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Board of Directors  40",
+      "context_snippet": "Board of Directors  40"
+    }
+  },
+  {
+    "fact_id": "ca95e003",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Report",
+    "attribute": "______",
+    "value_text": "42",
+    "normalized_value": 42.0,
+    "unit": "Numerical",
+    "time_period": "2023",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 1,
+      "exact_quote": "Directors' Report  42",
+      "context_snippet": "Directors' Report  42"
+    }
+  },
+  {
+    "fact_id": "aa834e44",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Total Headcount Increased By",
+    "attribute": "___a____a____________a______",
+    "value_text": "11",
+    "normalized_value": 11.0,
+    "unit": "Numerical",
+    "time_period": "FY24",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 17,
+      "exact_quote": "• Total headcount increased by  11%",
+      "context_snippet": "• Total headcount increased by  11%"
+    }
+  },
+  {
+    "fact_id": "970341ac",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Major Vendors, Accounting For",
+    "attribute": "_a_____________a_____________",
+    "value_text": "75",
+    "normalized_value": 75.0,
+    "unit": "Numerical",
+    "time_period": "FY24",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 20,
+      "exact_quote": "• Major vendors, accounting for  75% of",
+      "context_snippet": "• Major vendors, accounting for  75% of"
+    }
+  },
+  {
+    "fact_id": "5b1dde95",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Liance\t Officer\t With\t Effect\t From\t June",
+    "attribute": "__a___________________________",
+    "value_text": "01",
+    "normalized_value": 1.0,
+    "unit": "Numerical",
+    "time_period": "2013",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 33,
+      "exact_quote": "and\t Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023\t and\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t March\t 27,\t 2024.",
+      "context_snippet": "and\t Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023\t and\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t March\t 27,\t 2024."
+    }
+  },
+  {
+    "fact_id": "05a02bce",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "The\t Company\t With\t Effect\t From\t March",
+    "attribute": "_________a____________________",
+    "value_text": "27",
+    "normalized_value": 27.0,
+    "unit": "Numerical",
+    "time_period": "2013",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 33,
+      "exact_quote": "and\t Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023\t and\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t March\t 27,\t 2024.",
+      "context_snippet": "and\t Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023\t and\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t March\t 27,\t 2024."
+    }
+  },
+  {
+    "fact_id": "a1f96011",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Th\t The\t Company\t With\t Effect\t From\t May",
+    "attribute": "_____________a________________",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2013",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 33,
+      "exact_quote": "11\t\tMr.\t Sunil\t Kumar\t Bansal,\t Company\t Secretary\t and\t Compliance\t Officer,\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t May\t 31,\t2023.",
+      "context_snippet": "11\t\tMr.\t Sunil\t Kumar\t Bansal,\t Company\t Secretary\t and\t Compliance\t Officer,\t ceased\t to\tbe\tassociated\t with\t the\t Company\t with\t effect\t from\t May\t 31,\t2023."
+    }
+  },
+  {
+    "fact_id": "62667abc",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Current Ratio",
+    "attribute": "_________a___",
+    "value_text": "4.42",
+    "normalized_value": 4.42,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 37,
+      "exact_quote": "Current ratio  4.42 5.33 The current ratio measures a company’s ability to meet its short-",
+      "context_snippet": "Current ratio  4.42 5.33 The current ratio measures a company’s ability to meet its short-"
+    }
+  },
+  {
+    "fact_id": "7d9dbb53",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Liance\t Officer\t With\t Effect\t From\t June",
+    "attribute": "__a___________________________",
+    "value_text": "01",
+    "normalized_value": 1.0,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 41,
+      "exact_quote": "Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023.\t Further,\t Mr.\t Vivek",
+      "context_snippet": "Compliance\t Officer\t with\t effect\t from\t June\t 01,\t 2023.\t Further,\t Mr.\t Vivek"
+    }
+  },
+  {
+    "fact_id": "31782214",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Summary Of Material Accounting Policies",
+    "attribute": "____a_______a____a__a_________",
+    "value_text": "2.3",
+    "normalized_value": 2.3,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 69,
+      "exact_quote": "Summary of material accounting policies        2.3",
+      "context_snippet": "Summary of material accounting policies        2.3"
+    }
+  },
+  {
+    "fact_id": "38d8fb76",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Summary Of Material Accounting Policies",
+    "attribute": "____a_______a____a__a_________",
+    "value_text": "2.3",
+    "normalized_value": 2.3,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 70,
+      "exact_quote": "Summary of material accounting policies        2.3",
+      "context_snippet": "Summary of material accounting policies        2.3"
+    }
+  },
+  {
+    "fact_id": "76aa53b3",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Nd Equipment (Sorters And Conveyors) 5 10",
+    "attribute": "______________________a_______",
+    "value_text": "369.25",
+    "normalized_value": 369.25,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 79,
+      "exact_quote": "Plant and Equipment (Sorters and Conveyors) 5 10  369.25",
+      "context_snippet": "Plant and Equipment (Sorters and Conveyors) 5 10  369.25"
+    }
+  },
+  {
+    "fact_id": "141f3674",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Ents (Mega Facilities) 5As Per Lease Term",
+    "attribute": "_________a__a__________5a_____",
+    "value_text": "21.11",
+    "normalized_value": 21.11,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 79,
+      "exact_quote": "Leasehold improvements (Mega Facilities) 5As per lease term  21.11",
+      "context_snippet": "Leasehold improvements (Mega Facilities) 5As per lease term  21.11"
+    }
+  },
+  {
+    "fact_id": "c256ca74",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Advance Income Tax",
+    "attribute": "a__a____________a_",
+    "value_text": "2,589",
+    "normalized_value": 2589.0,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 82,
+      "exact_quote": "Advance income tax  2,589.46 2,156.74 - -",
+      "context_snippet": "Advance income tax  2,589.46 2,156.74 - -"
+    }
+  },
+  {
+    "fact_id": "9a09ba0d",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "D To Be Settled Within The Next 12 Months",
+    "attribute": "______________________________",
+    "value_text": "58.38",
+    "normalized_value": 58.38,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 84,
+      "exact_quote": "Current leave obligations expected to be settled within the next 12 months  58.38  47.78",
+      "context_snippet": "Current leave obligations expected to be settled within the next 12 months  58.38  47.78"
+    }
+  },
+  {
+    "fact_id": "05642268",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Opening Balance",
+    "attribute": "_________a_a___",
+    "value_text": "408.28",
+    "normalized_value": 408.28,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 86,
+      "exact_quote": "Opening balance  408.28  354.57",
+      "context_snippet": "Opening balance  408.28  354.57"
+    }
+  },
+  {
+    "fact_id": "9d682023",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Received During The Year",
+    "attribute": "______________________a_",
+    "value_text": "334.19",
+    "normalized_value": 334.19,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 86,
+      "exact_quote": "Add: Received during the year  334.19  299.19",
+      "context_snippet": "Add: Received during the year  334.19  299.19"
+    }
+  },
+  {
+    "fact_id": "84d4fe57",
+    "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+    "subject": "Closing Balance",
+    "attribute": "_________a_a___",
+    "value_text": "397.51",
+    "normalized_value": 397.51,
+    "unit": "Numerical",
+    "time_period": "2024",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "02-delhivery-annual-report-fy24-excerpt.pdf",
+      "page_number": 86,
+      "exact_quote": "Closing balance  397.51  408.28",
+      "context_snippet": "Closing balance  397.51  408.28"
+    }
+  },
+  {
+    "fact_id": "e5497ab3",
+    "doc_name": "03-delhivery-q4-fy24-earnings-presentation.pdf",
+    "subject": "Excludes",
+    "attribute": "________",
+    "value_text": "₹145 Cr",
+    "normalized_value": 145.0,
+    "unit": "INR",
+    "time_period": "Unspecified",
+    "scope": "General",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "03-delhivery-q4-fy24-earnings-presentation.pdf",
+      "page_number": 20,
+      "exact_quote": "(1) Includes investments, other bank balances, margin money deposits and deposits with original maturity for >12 months; excludes  ₹145 Cr of accrued interest In Mar ‘24 19",
+      "context_snippet": "(1) Includes investments, other bank balances, margin money deposits and deposits with original maturity for >12 months; excludes  ₹145 Cr of accrued interest In Mar ‘24 19"
+    }
+  },
+  {
+    "fact_id": "179faab2",
+    "doc_name": "03-delhivery-q4-fy24-earnings-presentation.pdf",
+    "subject": "Statements  For The Year Ended  March",
+    "attribute": "__a___________________a_______",
+    "value_text": "31",
+    "normalized_value": 31.0,
+    "unit": "Numerical",
+    "time_period": "2022",
+    "scope": "Consolidated",
+    "confidence_score": 0.85,
+    "source_evidence": {
+      "doc_name": "03-delhivery-q4-fy24-earnings-presentation.pdf",
+      "page_number": 26,
+      "exact_quote": "statements  for the year ended  March  31, 2022  as if the acquisition  occurred  on 1st April 2021 . These  have  not been  reviewed  / audited  by auditors",
+      "context_snippet": "statements  for the year ended  March  31, 2022  as if the acquisition  occurred  on 1st April 2021 . These  have  not been  reviewed  / audited  by auditors"
+    }
+  }
+]

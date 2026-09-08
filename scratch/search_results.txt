@@ -1,0 +1,1179 @@
+=== DELHIVERY SEARCHES ===
+
+================ SEARCH QUERY: 'gdp|growth|revenue|ebitda|profit|loss|pin\s*code|express\s*parcel|network|headcount|employee|shareholding|sahil|barua' ================
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 3]:
+   We were the largest and fastest growing fully integrated logistics player in India by revenue as of Fiscal 2021 .*
+   US$365 billion by Fiscal 2026, driven by strong underlying economic growth, favourable regulatory environment,
+   (iii) Employee Reservation Portion(3) 432,900 * Equity Shares aggregating to ₹200 million
+   (3) In the event of under -subscription in the Employee Reservation Portion, the unsubscribed portion is made  available for
+   allocation and Allotment, proportionately to all Eligible Employees who have Bid in excess of ₹200,000 subject to the
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 4]:
+   1.  Funding organic growth initiatives  20,000
+   (ii)  Expanding our network infrastructure  13,600
+   2.  Funding i norganic growth through acquisitions and other strategic
+   and March 31, 2019 and total income, restated loss  for the period/year and earnings per share  (basic and diluted)
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 5]:
+   Restated loss per share (Note 1
+   1. Basic and diluted loss per share: Basic and diluted loss per share are computed in accordance with Indian Accounting Standard
+   2. Loss per share for the nine  months period ended December 31 , 2021 and December 31 , 2020 have not been annualized.
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 12]:
+   8.  Sahil Barua  February 3, 2021            53,400  1,896.50  Preferential allotment
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 13]:
+   8.  Sahil Barua  February 3, 2021           6,408    22,615.00  Allotment of Series G
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 17]:
+   92 RESTATED SUMMARY CONSOLIDATED PROFIT AND LOSS DATA
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 22]:
+   profit or loss  91.95  - - - - 91.95
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 23]:
+   profit and loss  - (3.39)  - - - (3.39)
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 27]:
+   102 PROFORMA SUMMARY CONSOLIDATED PROFIT AND LOSS  DATA  FOR THE NINE  MONTHS
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 42]:
+   revenue as of Fiscal 2021. We have achieved significant scale and  growth, as demonstrated by the below metrics.
+   8. Includes permanent employees and contractual manpower (excluding daily wage manpower and security guards and Spoton) as of
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 43]:
+   collected participant, product, location and network data for over 1 billion orders along with over 30
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 44]:
+   PIN code reach  13,485  15,875  16,677  17,488
+   EBITDA  (1,370.71)  (1,720.47)  (1,003.79)  (2,317.92)
+   (1)  Includes permanent employees and contractual workers (excluding daily wage manpower and security guards and Spoton) as of the
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 45]:
+   215 (3) Share based payment expenses pertaining to ESOPs are excluded from Adjusted EBITDA calculations.
+   PIN code reach  12,764   13,087
+   (1)   Includes permanent employees and contractual workers (excluding daily wage manpower and security guards) as of the last day o f
+   The following table provides our revenue by service for Fiscal 2019, Fiscal 2020, Fiscal 2021 and the nine
+   Express parcel  million  148.49  224.55  289.20  207.27  406.51
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 46]:
+   2026 at a CAGR of 9%. This growth will be driven by strong underlying economic growth, a favourable regulatory
+   Fiscal 2026. Organized players are expected to benefit from the continued growth of e -commerce and the
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 47]:
+   the Offer, we were the largest and fastest growing 3PL express parcel (and heavy parcel) delivery player in
+   India by volume and revenue as of Fiscal 20 21 and the nine months period ended December 31 , 2021, with
+   Our express parcel delivery network, which serviced 17,488 PIN codes for the nine  months period ended
+   December 31 , 2021, covering 90.61% of the 19,300 PIN codes in India as of December 31 , 2021 (per India
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 48]:
+   31, 2021, respectively, and had a network presence across 13,087 PIN codes with 2.85 million sq. ft. of
+   became the third largest PTL freight player in India in terms of revenue as of Fiscal 2021, with a market
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 49]:
+   We began providing door -to-door and port -to-port express parcel services to and from India in 2018 to meet
+   customers to our India network. In July 2021, we executed an a greement to facilitate a strategic alliance
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 50]:
+   significantly for the nine  months period ended December 31 , 2021. Such revenue from sale of traded goods has
+   December 31 , 2021, we also had a one -off increase in revenue pertaining to import of medical equipment into
+   We have built a nation -wide network with presence in every state, servicing 17,488 PIN codes during the nine
+   months period ended December 31 , 2021, or 90.61% of the 19,300 PIN codes in India as of December 31 , 2021
+   (per India Post). Our network infrastruct ure includes 122 gateways, 21 automated sort centres, 93 fulfilment
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 51]:
+   the estimated utilisation of sortation capacity in our network infrastructure was 20.35%, 31.46%, 30.57%
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 52]:
+   network of  4,565 partner stores who provide us with flexible delivery capacity in their catchment areas.
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 53]:
+   223 lower flexibility compared to a Mesh network. As a result, Mesh network enables faster turnaround time, higher
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 55]:
+   connection with the Offer. Our revenue from contracts with customers has grown from ₹16,538.97 million in
+   Fiscal 2019 to ₹36,465.27 million in Fiscal 2021, or a CAGR of 48.49%. Further our revenue from contracts with
+   In Fiscal 2021, we fulfilled over 289.20 million express parcel orders, carried 373,854 tonnes of PTL freight,
+   million express parcel orders, carried 438,795 tonnes of PTL freight, processed 35.75 million orders through our
+   terms of revenue as of Fiscal 2021, with a market share of approximately 8.3% of the organized PTL market in
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 56]:
+   31, 2021. Our fair value loss on financial liabilities at fair value through profit or loss as a percentage of revenue
+   Our profit/( loss) after tax margin  improved from (105.22)% in Fiscal 2019 to (9.00)% in Fiscal 2020 and decreased
+   31, 2020 to (18.14)% in the nine months period ended December 3 1, 2021. Our EBITDA margin improved from
+   Our Adjusted EBITDA margin has improved from (11.35%) in Fiscal 2019 to (9.11%) in Fiscal 2020 and to
+   revenue in the respective Fiscal) was 93.00%, 100.00%, and 92.00% for Fiscal 2019, Fiscal 2020 and Fiscal 2021,
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 57]:
+   In 2020, these capabilities enabled us to activate over 8,300 PIN codes within 10 days  of the nation -wide COVID -
+   19 lockdown  and re-establish  operations  across  our network  by enabling  us to identify  essential goods and
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 59]:
+   229 December 31, 2021. Our fair value loss on financial li abilities at fair value through profit or loss as a percentage
+   of revenue from contract with customers was  89.53%, nil, 0.25%, nil and 6.23% in Fiscal 2019, Fiscal 2020,
+   profit/( loss) after tax margin  improved from (105.22)% in Fiscal 2019 to (9.00)% in Fiscal 2020 and decreased
+   December 31, 2020 to (18 .14)% in the nine months period ended December 31, 2021. Our EBITDA margin
+   December 31, 2021.  Our Adjusted EBITDA Margin has improved from (11.35%) in Fiscal 2019 to (9.11%) in
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 61]:
+   benefit from our set of technology and network optimization tools. In Fiscal 2021, we successfully introduced
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 66]:
+   December 31 , 2021, we have over 39,000 high resolution  CCTV  cameras  installed  across  our network  that are
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 67]:
+   regular  safety  drills.  The monthly  injury  rate in our network  stood  at 0.20  per thousand  employees  (on-roll as
+   As of December 31, 2021, excluding Spoton, we had 15,392 permanent employees worldwide and engaged
+   employees and 261 contract workers as of December 31, 2021 . Our network partners hire their own employees
+   Operations and Network Design  13,35 5
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 69]:
+   minimize the risk of COVID -19 to our employees, our customers and the communities in which we participate.
+   our network  to deliver  essential  goods  as per government  directives  across  over 8,300  PIN codes  by the first week
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 70]:
+   We incurred restated losses for the year/period of ₹17,833.04 million, ₹2,689.26 million, ₹4,157.43 million,
+   ended December 31 , 2020 and December 31 , 2021, respectively. The restated losses included a fair value loss on
+   financial liabilities at fair value through profit or loss of ₹14,806.64 million, nil, ₹91.95 million, nil and ₹2,997.39
+   December 31 , 2021, respectively.  The fair value loss in Fiscal 2019 relates to an increase in the fair market value
+   obligations were no longer applicable, resulting in no fair value losses in Fiscal 2020. The non -cash fair value loss
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 74]:
+   2014  Launch of Netplan, our network design tool
+   2015  Launch of automated sorters in our network
+   2015  Commencement of self -managed express surface line -haul network
+   2016  Launch of ‘Constellation’ , partner managed last mile delivery network
+   2019  Launch of tractor trailer s in our network
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 79]:
+   growth through acquisitions and other strategic initiatives ” on page 166.
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 80]:
+   Sahil Barua) aggregating to 100% of the total equity holding of DFSPL.
+   Sahil Barua) aggregating to 100% of the total equity holding of OSCPL.
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 81]:
+   shareholder, Sahil Barua) aggregating to 100% of the total equity holding of DCBSPL .
+   shareholder , Sahil Barua ) aggregating to 100% of the total equity holding of Spoton .
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 82]:
+   256 Amount of accumulated profits or losses
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 83]:
+   Our Company holds 2,000,000 equity shares aggregating to 100% of the total equity shareholding of Delhivery
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 90]:
+   264 Other than as disclosed under “ Capital Structure – Notes to Capital Structure – Shareholding of our Directors
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 95]:
+   under the SEBI (Share Based Employee Benefits) Regulations, 2014, including the following:
+[dump_01-delhivery-prospectus-2022-excerpt.pdf.txt Page 99]:
+   Sahil Barua  13,407,798  8,668,000  Nil 2.08%
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 2]:
+   Pin codes covered4,445(1)
+   (5) Includes permanent employees, contractual workers and last mile deliver partner agents
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 4]:
+   EBITDA1,429 K tonnes
+   EBITDA margin₹81,415 Mn
+   business, led to a 1.6% EBITDA margin
+   quarter  in FY24. Robust revenue growth,
+   profitability of ₹117 million, or 0.5% of
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 6]:
+   3.23.71,355 7,557 4,219 9,414Service EBITDA (₹ million)
+   FY20 FY21 FY22 FY23 FY24Express parcel shipment volume
+   (1,229) (2,849) (4,516)1,266EBITDA (₹ million)
+   (4,039)758Adjusted EBITDA  (₹ million)
+   FY20 FY21 FY22 FY23 FY24Profit after tax (₹ million)  (%)*
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 7]:
+   the 19,300 pin codes in India, operate
+   to 5,000 facilities within our network,
+   EBITDA swung from negative ₹2,258
+   PAT profitability in Q3 FY24 was driven
+   zero to close to $1 billion in revenues.
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 8]:
+   FY24 was our first full year of EBITDA
+   from a loss of ₹4,516 million in FY23
+   to a profit of ₹1,266 million in FY24.
+   quarter of PAT profitability in Q3 FY24.
+   • PAT profitable in Q3
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 14]:
+   resulting in a 4x revenue growth. Since
+   revenue grew 3x. The service level
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 17]:
+   In FY24, 1,509 employees took
+   female employees to 5,594 across
+   • Total headcount increased by  11%
+   • 1,509 employees  moved to new
+   • 423 employees  promoted, advancing
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 18]:
+   we trained 12,104 employees across
+   • 12,104 employees  trained in FY24
+   and business development• Engaged over 29,000 employees
+   across six offices, and 1,880 employees
+   participation of >10,000 employees.
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 22]:
+   Revenue from Operations 74,540.82 66,586.61 81,415.38 72,253.01
+   Loss before tax and share of profit of associate (1,679.68) (8,123.02) (2,531.43) (10,666.34)
+   Loss after tax before share of profit of associate (1,679.68) (8,123.02) (2,578.81) (10,213.53)
+   Add: Share of profit of associate (net) - - 86.95 135.74
+   Loss for the year (1,679.68) (8,123.02) (2,491.86) (10,077.79)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 23]:
+   As your Company does not have profits in FY24, no amount
+   1 Organic Growth Initiatives
+   Expanding network infrastructure of your Company 13,600.00 No change 12,013.371
+   2 Funding inorganic growth through acquisition and other strategic
+   Equity shares allotted pursuant to exercise of stock options by the employees during FY24 8,070,106 8,070,106
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 24]:
+   7. Mr. Sahil Barua Managing Director and Chief Executive Officer
+   the Rules made thereunder, Mr. Sahil Barua (DIN: 05131571),
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 25]:
+   as on March 31, 2024, and of the loss of the Company for
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 26]:
+   by 59% in FY24, compared to an overall headcount increase
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 27]:
+   cross-functional projects. 1,509 employees internally
+   moved into new roles and 423 employees were promoted
+   FY24, your company trained 12,104 employees in Operations,
+   employees at corporate offices and over 10,000 employees
+   the country and 588 employees were eventually hired after
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 28]:
+   12. Profit/(loss) before tax (315.03) (0.34) 0.61 (9.68) (60.14) (240.92) (29.80) (15.47) (1.26) (183.45) (15.93) (42.81)
+   14. Profit/(loss) after tax (315.03) (0.34) 0.61 (9.68) (60.14) (240.92) (249.56) (21.98) (1.26) (183.45) (15.93) (42.81)
+   16. Extent of shareholding (in percentage) 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+   5. Description of how there is significant influence By way of shareholding
+   6. Reason why the associate is not consolidated The share of profit & loss of the associate has been consolidated in the
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 29]:
+   yImproved mapper to reduce misroutes in the Company’s network by ~15%.
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 31]:
+   1.  April 06, 2023 158,855 Employee Stock Options Purchases
+   2.  May 06, 2023 385,739 Employee Stock Options Purchases
+   3.  June 08, 2023 1,941,454 Employee Stock Options Purchases
+   4.  July 10, 2023 1,728,427 Employee Stock Options Purchases
+   5.  August 08, 2023 197,846 Employee Stock Options Purchases
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 32]:
+   2. Mr. Sahil Barua Managing Director & Chief Executive Officer 1 1
+   6. Average net profit of the Company as per section 135(5):
+   The Company did not have net profits during the three immediately preceding financial years.7. (a) Two percent of average net profit of the 
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 33]:
+   (i) Two percent of average net profit of the company as per section 135(5) Nil
+   11.  Specify the reason(s), if the Company has failed to spend two per cent of the average net profit as per section 135(5):
+   1.  Ratio of Remuneration of each Director to the median remuneration of all the employees of the Company
+   7. Mr. Sahil Barua4
+   4  The	 remuneration	 of	Mr.	 Sahil	 Barua	 includes	 the	 perquisite	 value	 of	stock	 options	 exercised	 during	 the	 respective	 financi
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 34]:
+   July 2024, the global economic growth for 2025 will likely
+   economies, growth will likely be stable at 4.3%.
+   Bank of India has projected India’s GDP to grow at 7.2%1 in
+   expenditure growth fell from 6.8% in FY23 to 4.0% in FY24.
+   According to the IMF, India’s GDP was US$3.9 trillion in 2024 and will likely surpass US$5 trillion by 20272. The logistics and
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 35]:
+   a 7.2% growth rate for India in FY25. The projected growth
+   India’s per capita GDP reached US$2.73 thousand5 in 2024.
+   30 years of age and digitally native, resulting in rapid growth
+   logistics management on India's upcoming 5G network.
+   5 https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD , accessed on June 22, 2024Management Discussion and Analysis (Cont
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 36]:
+   Revenue from contracts with customers 81,415.38 72,253.01
+   Employee benefits expense 14,367.70 14,000.34
+   Profit/(Loss) before exceptional items, share of profit of an associate and tax (2,307.33) (10,666.34)
+   Share of profit/(loss) of associate (net) 86.95 135.74
+   Profit/(Loss) before tax (2,444.48) (10,530.60)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 37]:
+   EBITDA 1,266.41 (4,516.08)
+   Adjusted EBITDA 757.86 (4,038.66)
+   Adjusted EBITDA margin 0.93% (5.59%)
+   Our EBITDA and adjusted EBITDA increased significantly during FY24 over FY23 primarily due to robust growth in revenues
+   EBITDA margin 1.56% (6.25%) EBITDA margin measures a company’s operating profit as a percentage
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 38]:
+   9  Any deficiency in India’s road network, telecommunication,
+   We increased the headcount of women employees by 59%
+   types of training. In FY24, we trained 12,104 employees
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 40]:
+   7 Mr. Sahil Barua (Managing Director & Chief Executive Officer) 05/05 Yes
+   Shareholding of each Director in the Company, as on March 31, 2024:
+   Mr. Sahil Barua (DIN: 05131571)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 43]:
+   Mr. Sahil Barua 15.00 13.99 28.99 - 139.07 - - 5.33 173.39
+   3 Includes amount accrued during the FY24 and paid in FY25.Details of ESOPs granted to Executive Directors under Delhivery Employees Stock O
+   September 29, 2021, appropriate adjustments were made to the outstanding options granted to the employees of the Company under and in terms 
+   September 29, 2021, appropriate adjustments were made to the outstanding options granted to the employees of the Company under and in terms 
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 44]:
+   September 29, 2021, appropriate adjustments were made to the outstanding options granted to the employees of the Company under and in terms 
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 45]:
+   Mr. Sahil Barua Executive Director 1 1
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 46]:
+   Employee Stock Option Plan, 2012 of the Company
+   Employee Stock Option Plan II, 2020 of the Company
+   Employee Stock Option Plan III, 2020 of the Company
+   5.  To approve the Delhivery Employee Stock Option Plan IV,
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 47]:
+   March 31, 2024, 99.99% of shareholding was held in
+   Total 736,785,255 100.00i)  Distribution of Shareholding as on March 31, 2024
+   j) Shareholding Pattern as on March 31, 2024
+   Total shareholding of Promoter and promoter group 0 0 0 0 0
+   Total public shareholding 92,984 736,785,255 0 0 100.00
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 50]:
+   7. Mr. Sahil Barua 05131571 19/12/2011
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 51]:
+   3. Total employees (D + E) 18,604 17,121 92.03% 1,483 7.97%
+   3. Total differently abled employees (D + E) 7 7 100.00% 0 0
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 52]:
+   22. Turnover rate for permanent employees and workers
+   Permanent Employees 35.69% 45.15% 36.36% 41.93% 43.26% 42.02% 33.00% 36.82% 33.24%
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 53]:
+   5 Employee Training &
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 55]:
+   Employees other than BoD and KMPs 6 POSH, Code of Conduct, WhistleBlower, Anti
+   5.  Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 56]:
+   PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their
+   1. a. Details of measures for the well-being of employees:
+   Note	-	Child	care/creche	benefits	were	rolled	out	for	all	Employees	in	April	2023.b. Details of measures for the well-being of workers:
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 57]:
+   5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+   6.  Is there a mechanism available to receive and redress grievances for the following categories of employees and
+   7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+   8. Details of training given to employees and workers:
+   9. Details of performance and career development reviews of employees and worker:
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 58]:
+   hours worked)Employees 0.56 0.75
+   Total recordable work-related injuriesEmployees 115 130
+   No. of fatalitiesEmployees 7 3
+   (excluding fatalities)Employees 79 51
+   13. Number of Complaints on the following made by employees and workers:
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 59]:
+   1.  Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the
+   Total Employees 18,604 15,179 81.59% 13,319 13,147 98.70%
+   2. Details of minimum wages paid to employees and workers, in the following format:
+   Employees other than BoD and KMP** 12,436 283,495 709 421,308
+   ** For Employees/Workers who have been with the organisation for the entire FY24
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 60]:
+   Complaints on POSH as a % of female employees/workers 0.89% 1.02%
+   (Total energy consumed/Revenue from operations)8.99** 3.98
+   (Total energy consumed/Revenue from operations adjusted for PPP)214.51 95.84
+   (Total water consumption/Revenue from operations)0.0008 0.0009
+   (Total water consumption/Revenue from operations adjusted for PPP)0.0191 0.0208Business Responsibility & Sustainability Report (Contd.)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 61]:
+   (Total Scope 1 and Scope 2 GHG emissions/Revenue from operations)Metric tonnes of CO2
+   (Total Scope 1 and Scope 2 GHG emissions/Revenue from operations
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 62]:
+   (Total waste generated/Revenue from operations)23.3 9.9
+   (Total waste generated/Revenue from operations adjusted for PPP)556.3 239.4
+   PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 63]:
+   5.  Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 64]:
+   2024, and their consolidated loss, their consolidated total
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 65]:
+   as at March 31, 2024, total revenues of I 1,147.84 million, total
+   net loss after tax of I 650.02 million, total comprehensive
+   loss of I 649.91 million and net cash flows (net) of I 45.97
+   profit of I 86.95 million and total comprehensive income
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 68]:
+   Date: May 17, 2024 Date: May 17, 2024 Date: May 17, 2024Consolidated Statement of Profit and Loss
+   Revenue from contracts with customers 21 81,415.38 72,253.01
+   Employee benefits expense 25 14,367.70 14,000.34
+   Loss before exceptional items, share of profit of an associate and tax (III= I-II) (2,307.33) (10,666.34)
+   Share of profit of associates (net) (IV) 41 86.95 135.74
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 69]:
+   Loss before tax (2,444.48) (10,530.60)
+   Share of profit of associate (net) (86.95) (135.74)
+   Employee stock appreciation right expense 40.99 -
+   Fair value gain on investment at fair value through profit or loss (1,186.51) (305.79)
+   Fair value loss on investment at fair value through profit or loss (exceptional item) (refer note 29) 146.56 -
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 70]:
+   Loss for the year - - - (2,491.86) - (2,491.86)
+   - Share of other comprehensive loss of associate (net) - - - (0.06) - (0.06)
+   Total comprehensive loss - - - (2,451.81) 1.79 (2,450.02)
+   Loss for the year - - - (10,077.79) - (10,077.79)
+   - Re-measurement loss on defined benefit plans (net of taxes) - - - (16.34) - (16.34)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 72]:
+   Ind AS 12 Income Tax and Ind AS 19 Employee
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 79]:
+   year ended March 31, 2023 has decreased by I 811.51 million and loss per share has decreased from I 15.23 to I 14.09.
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 81]:
+   (At fair value loss through profit and loss account of I 146.56 million
+   Aggregate amount of fair value loss in unquoted investments 589.60 443.036. Inventories
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 82]:
+   Advance to employees - - 40.19 62.13
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 83]:
+   For details of shares reserved for issue under the employee stock option (ESOP) plan of the company, please refer note 39.
+   Add: Loss during the year (2,491.86) (10,077.79)
+   Add: Re-measurement gains/ (losses) on defined benefit plans 40.11 (16.34)
+   Net deficit in the statement of profit and loss (70,914.48) (68,463.37)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 84]:
+   Employee welfare fund* 30.35 27.14
+   Employee benefit payable 155.27 192.38
+   Provision for employee benefits (refer note 33)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 85]:
+   Employee's State Insurance Payable 9.58 8.70
+   Total 5,377.79 925.63 1,041.45 255.67 174.74 98.28 7,873.5621. Revenue from contracts with customers
+   Revenue from services* 81,415.38 72,236.47
+   Revenue from sale of traded goods - 16.54
+   Revenue from Express Parcel services 50,765.87 45,522.22
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 86]:
+   Less: Revenue recognised  (234.66)  (142.91)
+   - Fair value gain on Investment at fair value through profit or loss 1,186.51 305.79
+   Profit on disposals of property plant and equipment 291.94 20.52
+   Decrease in inventory - 15.7625. Employee benefits expense
+   Employee stock appreciation right expense (Refer note 39) 40.99 -
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 87]:
+   - Fair value loss on Investment at fair value through profit or loss 146.56 -
+   Loss attributable to equity holders of the parent (2,491.86) (10,077.79)
+   Basic Loss Equity per share (3.40) (14.09)
+   Diluted Loss Equity per share (3.40) (14.09)
+   same as basic loss per share.31. Income taxes
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 88]:
+   Brought forward losses 2,600.63 2,887.61
+   Reconciliation of Tax expense and the accounting profit multiplied by India’s domestic tax rate for March 31,
+   Accounting profit before income tax (2,444.48) (10,530.60)
+   Deferred tax not on recognised losses, unabsorbed depreciation and other items 704.79 2,755.28
+   Income tax expense reported in the consolidated statement of profit and loss 47.38 (452.81)32 Significant accounting judgements, estimates a
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 89]:
+   (g) Revenue Recognition (Ind AS 115)
+   Under the revenue recognition standard Ind AS 115 revenue has been recognised when control over the services
+   Actuarial (gain)/ loss on obligation (40.15) 19.15
+   Remeasurement gains/(losses) in other comprehensive income March 31, 2024 March 31, 2023
+   Actuarial gain/(loss) due to demographic assumption changes in DBO (0.90) (0.36)
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 90]:
+   Salary Growth Rate 7.00% 7.00%
+   Contribution to employee state insurance 79.65 64.77
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 91]:
+   Total amount recognised in Consolidated Statement of Profit or Loss 5,804.70 5,347.71
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 92]:
+   Mr. Sahil Barua 663.53 740.64 - - - - 663.53 740.64
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 93]:
+   higher by I 30.56 million and the losses before tax from continuing operations for the Group from “Algorhythm” would
+   From the date of acquisition, “Algorhythm” has contributed I 2.40 million of revenue* and I 16.07 million of loss* to the
+   the year ended on March 31, 2024. If amortisation of goodwill had not been done in the financial statement, loss before
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 94]:
+   Fair value loss on financial instruments at fair value through profit or loss (146.56) -
+   ii) Terminal Growth Rate - 5% (March 31, 2023 - NA)Refer note below#
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 95]:
+   Terminal Growth Rate (+) 0.5 27.00
+   ii) Terminal Growth Rate - 5% (March 31, 2023 - NA)Refer note below#
+   Terminal Growth Rate (+) 0.5 10.00
+   account of adoption of Ind AS 109, the group uses expected credit loss model to assess the impairment loss or
+   credit loss for trade receivables and 12 months expected credit loss for other receivables. An impairment analysis
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 96]:
+   business loss and unabsorbed depreciation and demand was revised to I 344.92 million accordingly vide order dated
+   The Group provides share-based payment schemes to its employees. During the year ended March 31, 2024 and March 31,
+   2023, four employee stock option plan (ESOP) and one stock appreciation plan were in existence. The relevant details of the
+   General Employee Share-option Plan (GESP): Delhivery Employees Stock Option Plan, 2012
+   On September 28, 2012, the board of directors approved the Delhivery Employees Stock Option Plan, 2012 for issue of stock
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 97]:
+   Delhivery Employees Stock Option Plan - II, 2020
+   Delhivery Employees Stock Option Plan III, 2020
+   Delhivery Employees Stock Option Plan IV, 2021
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 99]:
+   Summarised statement of profit and loss for the year ended March 31, 2024 and March 31, 2023:
+   Revenue from contract with customers 2,830.13 2,807.04
+   Employee benefits expense 443.62 341.32
+   Profit before tax (I-II) 333.93 517.26
+   Net profit after tax 229.42 392.94
+[dump_02-delhivery-annual-report-fy24-excerpt.pdf.txt Page 100]:
+   44.  The Code on Social Security, 2020 (‘Code’) relating to employee benefits during employment and post-employment benefits received Presid
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 4]:
+   3FY24: EBITDA
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 5]:
+   43 PTL: 30%+ YoY growth with significant improvement in profitability and market share1 Significant improvement in profitability during FY24
+   4 SCS: Doubled service EBITDA profitability over  FY23, strong Q4
+   5 TL: 40%  YoY revenue growth  with service EBITDA profitability improvement
+   6 Sharp YoY reduction in NWC days from 38 to 31 daysaFY24 EBITDA increased by Rs. 578 Cr to Rs. 127 Cr from Rs. (452 Cr) in FY23
+   bPAT profitable in Q3 FY24; PAT loss reduced by Rs. 759 Cr from Rs. (1,008 Cr) in FY23
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 6]:
+   (1) As per RedSeer report basis FY21 revenue
+   (2) Growth rate of revenue from services (excluding revenue from traded goods)
+   FY24 revenue from services
+   Express parcel shipments in FY24
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 7]:
+   (1) As per RedSeer report basis FY21 revenue
+   (2) Growth rate of revenue from services (excluding revenue from traded goods)6
+   Q4 FY24 revenue from services
+   Express parcel shipments in Q4 FY24
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 8]:
+   (2) Through Delhivery and partner (FedEx and Aramex) networks
+   (3) Active Customers for a quarter are those customers on whom an invoice was raised at least once during such quarter.(4) Includes permanen
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 9]:
+   Express Parcel PTL TL SCS Cross BorderRevenue from services(1,2)
+   FY22 FY23 FY24Express Parcel revenue
+   PTL freight revenue(2)
+   FY22 FY23 FY24(₹ Cr) (Mn)Express Parcel shipments
+   (1) Revenue  from services excludes revenue from traded goods
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 10]:
+   FY22 FY23 FY24TL revenue
+   Cross Border Services revenue (3)(₹ Cr) (₹ Cr)Supply Chain Services revenue
+   (1) Revenue  from services excludes revenue from traded goods
+   (3) Revenue from Cross Border Services in FY22 included freight revenue of Rs 46 Cr from the shipment
+   Express Parcel PTL TL SCS Cross BorderRevenue from services(1,2)
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 11]:
+   Express Parcel PTL TL SCS Cross BorderRevenue from services(1)
+   Q4 FY23 Q3 FY24 Q4 FY24Express Parcel revenue
+   (1) Revenue  from services excludes revenue from traded goods
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 12]:
+   Q4 FY23 Q3 FY24 Q4 FY24TL Service revenue
+   (1) Revenue  from services excludes revenue from traded goods
+   Express Parcel PTL TL SCS Cross BorderRevenue from services(1)
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 13]:
+   Q1 FY23 Q2 FY23 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Q4 FY24 FY23 FY24Adjusted EBITDA
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 14]:
+   Revenue from customers(1) 1,746 1,796 1,824 1,860 1,930 1,942 2,194 2,076 7,225 8,142
+   Service EBITDA (6) 86 139 205 196 201 306 238 422 941
+   Service EBITDA margin (0.3%) 4.8% 7.6% 11.0% 10.2% 10.4% 14.0% 11.5% 5.8% 11.6%
+   revenue)12.1% 11.7% 11.3% 10.7% 11.4% 11.0% 9.7% 10.5% 11.4% 10.6%
+   Adjusted EBITDA (217) (125) (67) 6 (25) (13) 92 21 (404) 76
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 15]:
+   Total Service EBITDA (6) 86 139 205 196 201 306 238 422 941
+   Express Parcel 94 134 190 219 217 203 299 214 636 934
+   Adjusted EBITDA (217) (125) (67) 6 (25) (13) 92 21 (404) 76
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 16]:
+   Receivable days = (Trade receivables + Unbilled receivables) * 365 /  Annualized revenue from operations basis  the last quarter of the peri
+   Payable days = Trade payables * 365 /  Annualized revenue from operations basis  the last quarter of the period
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 17]:
+   Revenue for services (A) 1,860 2,194 2,076 (5.4%) 11.6% 7,224 8,142 12.7%
+   Revenue from traded goods (B) 0 - - - - 2 - -
+   Revenue from customers (A+B) 1,860 2,194 2,076 (5.4%) 11.6% 7,225 8,142 12.7%
+   Employee benefit expense excl. share based  payments 284 306 308 0.8% 8.4% 1,111 1,211 9.0%
+   Employee benefit expense: share based payments 73 54 49 (8.9%) (32.8%) 289 226 (21.8%)
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 21]:
+   Cash operating profit/ (loss) before working capital changes(1)(22) 495
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 22]:
+   Capital Expenditure as % of Revenue from Services7.5% 7.2% 6.8% 7.8% 7.4%
+   (2) As % of reported revenues for FY22
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 23]:
+   Total revenue from customers 1,860 2,194 2,076 7,225 8,142
+   Less: Employee benefit expense 357 360 357 1,400 1,437
+   value through profit or loss(17) - - (2) -Non-cash expense/(gain) due to mark to market of
+   Reported EBITDA 13 109 46 (452) 127
+   Adjusted EBITDA 6 92 21 (404) 76
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 24]:
+   % of Revenue from services(2) 72.5% 73.8% 71.6% 73.2% 78.5% 73.3%
+   % of revenue 34.5% 33.1% 31.7% 34.1% 34.8% 33.0%
+   % of revenue 20.2% 20.6% 19.8% 18.8% 21.1% 19.7%
+   % of revenue 10.7% 11.1% 12.2% 12.2% 12.4% 12.2%
+   % of revenue 2.3% 3.5% 3.0% 3.6% 3.7% 3.5%
+[dump_03-delhivery-q4-fy24-earnings-presentation.pdf.txt Page 25]:
+   employee prior to completion of vesting, costs will be reversed(3) Related to costs attributable to performance -based ESOPs already granted
+   thereafterEmployee Stock Options(1)
+   Number of employees holding ESOPs (vested + unvested) : 1,432
+
+=== INDIA MACRO SEARCHES ===
+
+================ SEARCH QUERY: 'gdp|real gdp|growth|headline inflation|cpi inflation|food inflation|core inflation|wpi|revenue expenditure|fiscal deficit' ================
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 1]:
+   5   MEDIUM TERM OUTLOOK : DEREGULATION DRIVES GROWTH
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 2]:
+   147 Implications for India’s Growth Prospects
+   149 Reinvigorating the Internal Engines of Growth – Enhancing Economic
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 4]:
+   The global economy exhibited steady yet uneven growth across regions in 2024.
+   grow by 6.4 per cent in FY25. Growth in the first half of FY25 was supported by
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 5]:
+   1.1 Global economic conditions are shaped by changing growth dynamics, fluctuating
+   1.3 Nonetheless, global economic growth has remained fairly moderate. The global
+   projected growth of 3.2 per cent and 3.3 per cent for 2024 and 2025, respectively. Over
+   the next five years, global growth is expected to average around 3.2 per cent, which is
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 6]:
+   State of the Economy3Chart I.1: Resilient global growth
+   trends in 2024Chart I.2: Steady growth outlook
+   Sep-24Per centWorld growth
+   World AEs EMDEsGrowth (%)2023 2024 2025
+   1.4 Despite higher interest rates, advanced economies (AEs) witnessed stable growth
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 7]:
+   1.7 Within Asia, Japan's growth was hindered by domestic supply disruptions in the early
+   50.0, indicating no overall change in operating conditions.8 Output growth in consumer
+   7 S&P Global. (2025, January 6). Global growth accelerates as solid service sector expansion offsets manufacturing
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 14]:
+   ultimately reduce global economic growth. In light of these developments, Chapter 5
+   domestic product (GDP) growth for FY25 is estimated to be 6.4 per cent. From the
+   Chart I.20: Despite global uncertainty, India's growth remains close to
+   GVAGVA GDPPer centFY25 Average growth over FY15 and FY24 (excluding FY21 and FY22)
+   Source: Calculations based on Statement 13: Annual and Quarterly Estimates of GDP at constant prices, MoSPI
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 15]:
+   Economic Survey 2024-2512services are expected to support industrial expansion. Growth in the services sector is
+   14 Economic survey 2023-24, Chapter 1 – State of the Economy, Box I.1: Growth in GDP, GVA, and their components
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 17]:
+   Source: Calculations based on Statement 13: Annual and Quarterly Estimates of GDP at constant prices, MoSPI
+   Growth in H1 FY25 driven by agriculture and services sector
+   1.28 The real GVA grew by 6.2 per cent in H1 FY25. A strong growth momentum in Q1
+   1.29 Agriculture growth remained steady in H1 FY25, with Q2 recording a growth rate
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 18]:
+   1.30 The industrial sector grew by 6 per cent in H1 FY25. Q1 saw a strong growth of 8.3
+   per cent, but growth moderated in Q2 due to three key factors. First, manufacturing
+   1.32 Despite various challenges, India continues to register the fastest growth in
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 19]:
+   1.34 The services sector continues to perform well in FY25. A notable growth in Q1 and
+   Q2 resulted in 7.1 per cent growth in H1 FY25. Across sub-categories, all the sub-sectors
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 20]:
+   during H1 FY25, supported by growth in new orders, rise in output, improvement in
+   1.35 India’s GDP at constant (2011-12) prices grew by 6.7 per cent and 5.4 per cent in
+   Q1 and Q2 FY25, respectively. This implied a real GDP growth of 6.0 per cent in the first
+   Chart I.29: GDP growth in H1 FY25 at
+   FY25Per cent of GDP (current
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 21]:
+   (FADA)19, the growth of passenger vehicle sales has slowed to 4.2 per YoY cent in
+   per Nielsen IQ, have recorded a moderate growth in H1FY25. However, there is
+   steady growth of 7.7 per cent YoY in air passenger traffic in April – November 2024.
+   The 7.3 per cent YoY growth indicated by the First Advance Estimates for PFCE at
+   1.38 The moderation in real GDP growth can be traced to a softening of growth in
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 22]:
+   increase of 23.6 per cent in FY24 as against a compund anual growth rate (CAGR) of 4.5
+   per cent in the preceding four years. Moreover, in H1 FY25, there has been a growth of 10.3
+   1.42 As India’s economy continues to expand, the growth process has been ably
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 23]:
+   around 14 per cent of GDP, persistent general government dis-savings could have
+   FY19 FY20 FY21 FY22 FY23 FY24per cent of GDP
+   FY19 FY20 FY21 FY22 FY23Growth (per cent)Y-o-y growth in investment
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 24]:
+   accounted for about 75 per cent of the capital expenditure, whereas significant YoY growth
+   Growth in April to November FY25 over April to November FY24 Growth in July to November FY25 over
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 25]:
+   registered positive growth, whereas land revenue25 declined, for states as a collective (Chart
+   in central taxesChart I.38: Growth exhibited by
+   Growth in April to November FY25 over
+   Growth in April to November FY25 over
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 27]:
+   Economic Survey 2024-25241.49 The revenue expenditure of the states grew at 12 per cent (YoY) during April to
+   growth of 25.7 per cent and 10.4 per cent, respectively (Chart I.43). With expenditure
+   Growth in April to November FY25 over April to
+   Growth in April to November FY25 over April to
+   Chart I.44: Varying degree of capital outlay as a per cent of revenue expenditure
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 28]:
+   1.52 Retail headline inflation, as measured by the change in the Consumer Price Index
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 29]:
+   driving retail inflationChart I.47: CPI inflation excluding
+   Dec-24Per centCPI inflation
+   imports rose by 5.2 per cent. This growth was primarily driven by an increase in non-
+   32 Further, if gold and silver are also excluded, CPI inflation excluding these five commodities (which constitute 3.4
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 30]:
+   (CAD) remains relatively contained at 1.2 per cent of GDP in Q2 FY25.
+   a growth of 51.5 per cent in FY24. The rise in repatriation through the channels of
+   35 “Behind India’s growth over last 10 yrs—increase in repatriations, steady FDI inflows”. https://tinyurl.
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 32]:
+   State of the Economy29Financial sector prospects amid a moderation of growth in credit
+   Chart I.50: Moderation in growth of bank credit to different sectors
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 33]:
+   deposit growth rates. The RBI FSR’s (June 2024)38 analysis of previous episodes where
+   where credit growth exceeds deposit growth is 41 months. The merger of a bank with
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 34]:
+   1.65 India's labour market growth in recent years has been supported by post-pandemic
+   1.66 The formal sector in India has seen significant growth, with net Employees’
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 35]:
+   Economic Survey 2024-2532the potential to support economic growth and improve labour market outcomes.
+   1.68 A steady growth trajectory shapes the global economic outlook for 2024, though
+   1.71 Going forward, food inflation is likely to soften in Q4 FY25 with the seasonal easing
+   1.72 In brief, there are many upsides to domestic investment, output growth and
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 36]:
+   balance of these considerations, we expect that the growth in FY26 would be between
+   sectoral policy agenda for sustained growth push. In this context, Chapter 5 elaborates
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 37]:
+   services) have registered a steady growth in the first nine months of FY25,
+   reaching USD 602.6 billion (6 per cent). Growth in services and goods exports,
+   during the same period reached USD 682.2 billion, registering a growth of 6.9
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 38]:
+   point decrease in output growth.1 Economists like Keynes and Tobin have pointed
+   and the Global Economic Policy Uncertainty (GEPU) index5, which is a GDP-weighted
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 41]:
+   (WTO) database shows a year-on-year (YoY) growth of 3.5 per cent and 3 per cent,
+   3.10 Over the last four quarters, trade growth in developing countries generally exceeded
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 42]:
+   2022 2023 2024Growth in merchandise export
+   Q1=100) (Per cent)Merchandise export volume growth Merchandise import volume growth
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 50]:
+   3.21  India's trade sector has demonstrated remarkable stability and growth, achieving
+   the first nine months of FY25, reaching USD 602.6 billion, witnessing a YoY growth
+   YoY growth of 6.9 per cent. This positive import growth indicates a steady demand for
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 51]:
+   growth of 1.6 per cent (YoY basis) primarily attributed to a decline in the value of
+   growth in the first nine months of FY25, reflecting growing demand for capital
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 52]:
+   contributes 2.3 per cent of GDP, 13 per cent to industrial production, and 12 per cent to
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 53]:
+   III.3 elaborates on potential factors that impede export growth and opportunities that
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 56]:
+   Economic Survey 2024-2598While there are tailwinds which will support the growth of India’s textile exports, these
+   3.31  Between April and November 2024, India's exports saw significant growth and
+   0-0.1 per cent from April to November 2023 and rose to over 0.1 per cent with growth in
+   to over 1 per cent with growth in value greater than 25 per cent in April to November
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 62]:
+   3.44  India’s current account deficit (CAD) moderated slightly to 1.2 per cent of GDP in Q2
+   of FY25 against 1.3 per cent of the GDP recorded in Q2 of FY24. The recent rise in the CAD
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 63]:
+   External Sector105Chart III. 12: Current account balance (CAB) as a per cent of GDP
+   CAB as per cent of GDPQ2 FY24 Q2 FY25
+   to USD 31.9 billion in Q2 of FY25. This growth reflects the continued strength of India’s
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 64]:
+   3.48  The growth trajectory of capital inflows has shown signs of revival in recent
+   FY25, a YoY growth of 17.9 per cent.
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 66]:
+   92    “Behind India’s growth over last 10 yrs—increase in repatriations, steady FDI inflows”. https://tinyurl.com/2tt3pxsf.
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 68]:
+   and 2.5 billion, respectively. Factors such as concerns about slowing earnings growth,
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 69]:
+   higher inflows (November 2023 to March 2024) and vice-versa. India’s strong growth
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 73]:
+   slightly from 18.8 per cent of the GDP at the end of June 2024 to 19.4 per cent at the end
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 76]:
+   of the headline inflation rate in most countries during FY24 and the current year. The
+   1  International Monetary Fund (2025, January) World Economic Outlook Update-Global growth: Divergent and
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 77]:
+   Prices and Inflation119Chart IV.1a: Headline inflation
+   Av. GDP Growth Av. I nf lat io n R at e Av. Po lic y RatePer cent2022 2023 2024
+   4.5. In alignment with the downward trend in headline inflation, core inflation, which
+   Chart IV.2: Core inflation also moderates
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 78]:
+   Economic Survey 2024-25120Global food inflation eases with divergence in a few EMEs
+   4.6. Global food inflation is on a downward trend, aligning with the patterns observed
+   Chart IV.3a: Global food inflation
+   4.7. India's headline inflation, measured by the Consumer Price Index (CPI), has
+   due to a significant decrease in core inflation, which dropped by 0.9 percentage points
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 79]:
+   Prices and Inflation121Chart IV.4: Headline and core inflation under control
+   4.8. Over the past two years, India's food inflation rate has remained firm, diverging
+   4.9. Food inflation, measured by the CFPI, faced pressures in FY25 (April-December),
+   items are excluded, the average food inflation rate for FY25 (April-December) was 4.3
+   per cent, which is 4.1 per cent lower than the overall food inflation. Similarly, the average
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 80]:
+   than the current food inflation. Similarly, average headline inflation is 4.2 per cent when
+   excluding TOP, which is 0.7 per cent lower than the current headline inflation. Given
+   Chart IV.7: Headline and food inflation driven by few food items
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 86]:
+   4.20.  In addition to tomato and onion, tur dal also contibuted to food inflation in India.
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 87]:
+   Box IV.1: Administrative measures to control food inflation
+   shocks, the RBI expects headline inflation to be 4.2 per cent in FY26. IMF has projected
+[dump_01-india-economic-survey-2024-25-excerpt.pdf.txt Page 88]:
+   cent, respectively, as compared to 2023-24. This could lead to softening of food inflation
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 4]:
+   II.2.1 : R&D Expenditure as a Driver of India’s Productivity Growth ........................................  30
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 5]:
+   2. Growth Rates and Composition of Real Gross Domestic Product (At 2011-12 prices)   283
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 6]:
+   continued in 2024, although growth was uneven
+   3.7 per cent, but also below the growth of 3.3 per
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 7]:
+   Fund (IMF)1, global growth at 3.3 per cent
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 8]:
+   Although real gross domestic product (GDP)3
+   growth moderated to 6.5 per cent in 2024-25, India remained the fastest growing major
+   I.10 Growth in gross value added (GVA) in
+   I.11 Growth in industrial sector moderated to 4.3
+   witnessed robust growth in Q1:2024-25, but
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 9]:
+   aggregate supply with a growth of 7.5 per cent
+   Headline inflation moderated to an average of 4.6
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 10]:
+   I.16 Considering the growth-inflation dynamics,
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 11]:
+   deficit (GFD) declining to 4.7 per cent of GDP in
+   cent of GDP in 2023-244. On the expenditure
+   a growth of 5.2 per cent over and above 19.8
+   per cent recorded in 2023-24, while growth in
+   revenue expenditure was 5.8 per cent in 2024-
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 12]:
+   digits as at end-December 2024 although growth
+   I.26 The credit growth of urban cooperative
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 13]:
+   recorded growth of 34.8 per cent and 17.9 per
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 15]:
+   cent in 2024). The growth in EMDEs is projected
+   marginally to 3.9 per cent in 2026. The growth
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 17]:
+   GDP (0.6 per cent) to catch up with the levels
+   factors, CPI inflation for 2025-26 is projected at
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 18]:
+   I.51 The impetus to growth-inducing capital
+   budgeted to rise to 4.3 per cent of GDP in 2025-26
+   of GDP by 2025-26 by targeting the GFD at 4.4
+   per cent of GDP in 2025-26 (BE), down from 4.7
+   public debt-to-GDP ratio, reaching around 50
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 19]:
+   India’s export growth16.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 22]:
+   GDP grew by 3.3 per cent in 2024 (3.5 per cent
+   growth moderated to 6.5 per cent4 in 2024-25,
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 23]:
+   ANNUAL REPORT 2024-2518II.1.3  Headline inflation moderated further
+   during 2024-25. While food inflation remained
+   Appendix Table 1). While growth in consumption
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 24]:
+   ECONOMIC REVIEW19quarterly trajectory, real GDP rose (y-o-y) by 6.5
+   per cent in Q1:2024-25; growth softened to 5.6
+   II.2.4  Growth in private final consumption
+   8.1 per cent during 2023-24. With exports growth
+   positively to GDP growth (Chart II.2.2).
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 25]:
+   GDP in 2023-24 from 2.0 per cent in the previous
+   (up to February 2025) as compared with a growth
+   7 Based on order books, inventories and capacity utilisation survey (OBICUS) of the Reserve Bank.Percentage pointsChart II.2.2: Weighted Con
+   Growth (per cent, y- o-y)Chart II.2.3: Indicators of Investment Demand
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 27]:
+   in minimum support prices (MSP) for major  Table II.2.3: Real GVA Growth
+   Chart II.2.5: Real GVA Growth - Quarterly
+   Y-o-Y growth 3Q MA - SAAR Q-o-Q SAAR02468101214
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 29]:
+   II.2.14  Industrial sector GVA growth eased to
+   Growth (per cent, y-o-y)Chart II.2.8: Organised Manufacturing Firms
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 30]:
+   growth of 12.2 per cent (y-o-y) during 2024-25 as
+   II.2.18  Growth in the services sector softened
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 31]:
+   Table II.2.5: High Frequency Indicators - Growth Rate
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 32]:
+   slowed in 2024-25 with growth turning negative
+   growth in the services sector [excluding public Table II.2.5: High Frequency Indicators - Growth Rate (Concld.)
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 33]:
+   Launches Growth (RHS)Chart II.2.12: Growth in Services Sector
+   GVA Growth in Services Excluding PADO SSCI (RHS )-30-25-20-15-10-5051015202530
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 35]:
+   10 S&T Indicators Tables - Research and Development Statistics, 2022-23 Ministry of Science & Technology, Government of India.(Contd.)expend
+   generally positively associated with TFP growth (Chart 1a).
+   Growth (RHS)Zero Growth Line (RHS)Mar-23
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 36]:
+   ECONOMIC REVIEW31(Contd.)Chart 1: R&D Expenditure, Innovation, GDP Per Capita and Total Factor Productivity
+   Source: World Development Indicators, World Bank; World Intellectual Property Organization; and The Conference Board.a. Gross R&D Expenditur
+   Gross R&D Expenditure as Per cent of GDPLog 10 (GDP Per Capita, 2023 Current Prices US$)0
+   Table 1: Impact of R&D Expenditure Growth on TFP Growth in India
+   5.  TFP growth, gross R&D expenditure, FDI inflows, export and import, and global metal price index have been used in terms of y-o-y
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 37]:
+   ANNUAL REPORT 2024-2532Countries with higher income levels, as measured by GDP
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 38]:
+   II.3.1 In India, headline inflation14 moderated
+   II.3.2 Volatility of headline inflation, as
+   14 Headline inflation is measured by year-on-year changes in the all-India CPI-Combined (Rural + Urban) [base year: 2012=100] released
+   by the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI), Government of India (GoI).Table II.3.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 39]:
+   II.3.5 CPI headline inflation in India eased from
+   headline inflation averaged 4.6 per cent during
+   Mar-25Chart II.3.3: Movements in Headline Inflation
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 40]:
+   6.7 per cent and contributed 68 per cent to headline inflation during 2024-25 as compared
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 41]:
+   1. Bilke, L. and Stracca L. (2007), ‘A Persistence-weighted Measure of Core Inflation in the Euro Area’, Economic Modeling ,
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 42]:
+   4. Constituents of CPI Inflation
+   a moderation in food inflation to 6.7 per cent in
+   Chart II.3.5: Drivers of Food Inflation (Y-o-Y)
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 47]:
+   contributed to the rise in core inflation. Around 78
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 48]:
+   index (WPI) increased to 2.3 per cent during
+   of 22.6 per cent in the WPI basket) increased to
+   II.3.26 Nominal rural wage growth decelerated
+   II.3.27 Headline inflation moderated in 2024-25
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 49]:
+   2023 dissipated. Bank credit growth remained
+   moderated to 22.8 per cent of GDP as at end-
+   II.4.5  The RM17 growth, adjusted for the first-
+   Table 4).  RM growth witnessed a transient
+   II.4.6 The growth in CiC - the major constituent
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 50]:
+   and II.4.3c). Growth in bankers’ deposits with the
+   II.4.7  The currency-GDP ratio moderated
+   Mar-28c. CiC Growth: Financial Year Variation
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 51]:
+   23 In sub-sections 3 and 4, growth and other ratios pertain to the last reporting Friday of the respective financial year/quarter/month. Dat
+   Index (2017 = 100)b. Retail Digital Transactions (end-December) a. Currency to GDP Ratio (end-December)Per cent
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 52]:
+   growth of 9.6 per cent as on March 21, 2025 as
+   third consecutive year. The ratio of M3 to GDP
+   a. Money Supply (M3) Components (Liabilities) - Growth b. Time Deposits and Interest RatePer cent
+   Time Deposit Growth  Time Deposit Interest Rate (RHS )-4048121620
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 53]:
+   nominal GDP as a proportion of M3, remained
+   phased manner as on March 31, 2025.Source: RBI.Chart II.4.8: Money Supply Sources (Assets) - GrowthPer cen t
+   Source: RBI, GoI, IMF, CEIC and RBI staff estimates.   Chart II.4.7: M3 to GDP Ratio (end-December)Per cent
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 54]:
+   II.4.12  Double digit growth in bank credit
+   Note:  1.  Figures in parentheses indicate growth in RM adjusted for the first-round impact of CRR changes.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 55]:
+   ANNUAL REPORT 2024-2550Bank credit growth remains in double digits, albeit with
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 56]:
+   Sales Growthi,t–10.010
+   Investment Growthi,t–10.007
+   Aggregate Control Non-agri Growtht–1-1.151***
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 57]:
+   by all SCBs. Data pertain to the last reporting Friday of the month.Table II.4.2: Sectoral Credit Growth - SCBs
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 58]:
+   ECONOMIC REVIEW53II.4.14  SCBs’ deposit growth remained below
+   Credit Growth (RHS)048121620
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 59]:
+   II.4.15 Double digit growth in bank deposits and
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 60]:
+   from ₹2.5 lakh crore in Q1 and further to ₹2.9 lakh crore in Q3 amidst credit growth remaining higher
+   than deposit growth and stood at ₹3.7 lakh crore
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 61]:
+   is a key factor. Moreover, credit growth is found to be a key determinant of CD rate (FBIL, 2020).Credit growth has outpaced deposit growth 
+   2022 with bank credit registering double digit growth since
+   an increasing wedge between credit and deposit growth. Box II.5.1
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 63]:
+   25 along with lower CPI inflation prints for July
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 66]:
+   maintained robust growth, particularly in H1:
+   outlook based on the GDP estimates for 2024-
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 69]:
+   (GFD) to 4.7 per cent of GDP – 0.2 per cent
+   II.6.3 Revenue expenditure rose by 5.8 per cent
+   subsidies as per cent of GDP declined by 0.1 per
+   of GDP in 2024-25 (RE) from 0.79 per cent in
+   38 The GDP data used for central government finances for 2024-25 (RE) pertain to the Second Advance Estimates for 2024-25 released by
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 70]:
+   declined to 1.6 per cent of GDP from 1.8 per cent
+   of GDP in 2024-25 (RE) as against 3.2 per cent
+   of GDP in 2023-24 (Table II.6.1). The growth in
+   4.0 per cent of GDP.
+   per cent of GDP from 11.5 per cent in 2023-
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 71]:
+   9.9 per cent, lower than the growth of gross tax
+   healthy growth of 12.8 per cent, on top of 13.6
+   per cent growth attained in 2023-24.
+   cent of GDP (Table II.6.1 and Appendix Table 6).
+   moderation in the revenue expenditure to 11.0
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 72]:
+   ECONOMIC REVIEW67cent of GDP as compared with 4.0 per cent in the
+   of GDP in 2025-26 (BE), highest post 2007-08
+   GDP, are expected to slightly decline in 2025-26
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 73]:
+   III.  Revenue Expenditure 29.6 33.3 37.2 43.5 47.5
+   V.  Fiscal Deficit 8.0 6.5 7.2 10.4 10.4
+   per cent of GDP in 2024-25 (Table II.6.2). As
+   a year ago (58 per cent). Revenue receipt growth
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 74]:
+   government moderated to 7.6 per cent of GDP40
+   government debt stood at 81.9 per cent of GDP
+   Gross Fiscal Deficit 3.0 3.6 3.3
+   Source: Budget documents of state governments.remained low at 2.5 per cent of GDP (Chart
+   revenues to 18.8 per cent of GDP in 2024-25
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 75]:
+   II.7.3 Global economic growth moderated to
+   [Chart II.7.1a]. Downside risks cloud the growth
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 76]:
+   global demand, world trade volume (goods and services) growth recovered from 1.0 per cent in
+   Per centChart II.7.1: Real GDP and World Trade* Volume Growth-2.7
+   Average Growth (2000-2019) Average Growth (2000-2019)-8.4
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 77]:
+   2024-25 was led by growth in electronic goods;
+   Growth (per cent)US$ billio nChart II.7.4: India’s Merchandise Exports
+   Export Growth (2024-25 over 2023-24)
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 78]:
+   ECONOMIC REVIEW73increased by 6.7 per cent in 2024-25. The growth
+   2024-25. The growth in exports of drugs and Chart II.7.6: India's Engineering Goods Exports -
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 79]:
+   negatively to import growth (Charts II.7.11 and
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 80]:
+   ECONOMIC REVIEW75volume growth of 6.8 per cent (Chart II.7.13a).
+   POL Gold Non-POL and Non-gold Import Growth (RHS)Percentage point sChart II.7.12: Relative Contribution of Major Sectors to
+   Import Growth (2024-25 over 2023-24)
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 83]:
+   ANNUAL REPORT 2024-2578working overseas, posted a y-o-y growth of 16.2
+   export growth during 2024-25 (up to February
+   2020-21 2021-22 2022-23 2023-24 2024-25Chart II.7.20: Services Exports Growth in Major
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 84]:
+   per cent of GDP) in April-December 2024 as compared with US$ 30.7 billion (1.1 per cent of
+   GDP) a year ago (Chart II.7.22).
+   CAB IncomeTransfers Trade Defici t ServicesPer cent of GDP-30.7-37.1
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 86]:
+   Net Outward FDI to GDP Ratio (RHS )0510152025
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 87]:
+   Log (Nominal GDP)- 0.54***
+   GDPit) + β3*log( Physical Distancei) + β4*Corporate Taxit +
+   3. Herzer, D. (2010), 'Outward FDI and Economic Growth', Journal of Economic Studies , 37(5).
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 89]:
+   1. External Debt to GDP Ratio 22.4 19.9 19.1 18.5 19.1
+   12.  NIIP/GDP Ratio -17.8 -11.6 -11.3 -10.1 -9.8
+   13.  CAB/GDP Ratio -4.8 -1.2 -2.0 -0.7 -1.3
+   II.7.30 India’s external debt to GDP ratio
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 91]:
+   I.1 Real GDP at Market Prices (% change)* 7.9 6.7 7.4 7.6 9.2 6.5
+   I.8 Gross Domestic Investment Rate (% of GDP at Current Prices)* 35.2 38.0 33.1 32.6 31.4 -
+   II.3 Wholesale Price Index (WPI) [average % change]#5.5 7.1 1.3 9.4 -0.7 2.3
+   V.1 Central Government Finances (% of GDP)$
+   a)	Revenue	Deficit	(%	of	GDP) 0.3 -0.1 0.1 0.2 0.3 0.6
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 92]:
+   c)  Trade Balance/GDP (%) -5.5 -9.1 -6.2 -7.9 -6.7 -7.9
+   d)  Invisible Balance/GDP (%) 5.2 5.8 4.8 5.9 6.0 6.6
+   e)  Current Account Balance/GDP (%) -0.3 -3.3 -1.4 -2.0 -0.7 -1.3
+   f)  Net Capital Flows/GDP (%) 4.7 3.8 2.7 1.8 2.5 0.8
+   b)  Debt-GDP Ratio (%) 17.8 20.9 21.4 19.1 18.5 19.1
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 93]:
+   APPENDIX TABLES283APPENDIX TABLE 2: GROWTH RATES AND COMPOSITION OF
+   8.  GDP 5.5 7.6 9.2 6.5 100.0 100.0 100.0
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 95]:
+   Currency-GDP Ratio$8.7 10.7 11.3 12.2 14.4 13.3 12.6 11.7 11.2
+   GDP-M3 Ratio$* 1.2 1.2 1.2 1.2 1.1 1.2 1.2 1.2 1.2
+   Credit-GDP Ratio$50.9 50.5 51.7 51.6 55.1 50.4 50.9 52.8 53.8
+   $ : GDP data from 2011-12 onwards are based on new series i.e., base: 2011-12. GDP refers to GDP at Current Market Prices.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 96]:
+   Market Capitalisation to GDP ratio (%)$128.5 124.7
+   Market Capitalisation to GDP ratio (%)$127.5 124.1
+   $  : GDP for 2024-25 is as per second advance estimates.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 97]:
+   # :  Going by the principle of using latest GDP data for any year, GDP used for 2024-25 (RE) is the latest available which is the second
+   2.		GDP 	figures	used	in	this 	table	are	on	2011-12	base,	which	 are	the	latest	available	estimates.
+[dump_02-rbi-annual-report-2024-25-excerpt.pdf.txt Page 98]:
+   4Total Disbursements as per cent of GDP 26.9 32.0 30.1 29.3 30.2 30.0
+   5Total Receipts as per cent of GDP 28.5 32.2 30.3 29.2 30.1 29.6
+   6Revenue Receipts as per cent of GDP 19.2 18.6 20.4 20.3 21.2 22.1
+   7Tax Receipts as per cent of GDP 16.1 16.1 17.6 17.9 18.1 18.8
+   8Gross Fiscal Deficit as per cent of GDP 7.2 13.1 9.5 8.8 8.8 7.6
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 3]:
+   India’s economy has continued to perform well. Following economic growth of 6.5 percent in
+   FY2024/25, real GDP expanded by 7.8 percent in the first quarter of FY2025/26. Headline
+   GDP is projected to grow at 6.6 percent in FY2025/26 before moderating to 6.2 percent in
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 5]:
+   Real GDP (at market prices)  9.7 7.6 9.2 6.5 6.6 6.2
+   Fiscal position (percent of GDP) 3/
+   Cyclically adjusted balance (% of potential GDP)  -7.7 -8.2 -8.1 -7.9 -7.2 -7.1
+   Cyclically adjusted primary balance (% of potential GDP)  -2.6 -3.1 -2.9 -3.0 -1.7 -1.7
+   (In percent of GDP)  -1.2 -2.0 -0.7 -0.6 -1.0 -1.4
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 7]:
+   D.Structural Reforms: Activating All Growth Engines ____________________________________________ 21
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 8]:
+   X. Supporting Growth Through Easier Access to Land for Manufacturing _____________________ 91
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 9]:
+   accounted for 2.2 percent of GDP in FY2024/25.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 10]:
+   INTERNATIONAL MONETARY FUND  5 that growth  is inclusive . The success of these reforms require s active participation across both public
+   4.      Growth has been robu st (Figure  2). India’s real GDP grew by 6.5 percent in FY2024/25 .
+   Private consumption growth  was buoyant  at 7.2 percent on increasing rural demand and stable
+   urban demand. Investment growth moderated  to 7.1 percent, supported by public investment,
+   this fiscal year , underpinning  real GDP growth of 7.8 percent in 2025Q2. Nominal GDP growth
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 11]:
+   registered  at 3.2 percent of GDP  again  in FY2024/25 . Revenue as a share of GDP declined
+   • The combined state government deficit is estimated to have risen to 3.3 percent of GDP , from
+   2.9 percent of GDP in  FY2023/24 . Pressure on the deficit was primarily due to revenue
+   November 2023 norms, expecting to improve credit conditions. Still, bank credit growth moderate d
+   growth increased from 16 percent y/y in September 2024 to 20.7 percent in March 2025 , partly due
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 12]:
+   declined  to 0.6 percent of GDP , from 0.7 percent of GDP in FY2023/24 , as robust import  demand
+   inflow s decreased to  0.1 percent of GDP  in FY 2024/25 from 1.2 percent of GDP in FY2023/24, driven
+   CAD at 0.2 percent of GDP . Since July,  the rupee has depreciated  on U.S. tariff hikes and equity
+   Jul-25India: Bank Credit Growth
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 13]:
+   12.      Growth  is expected to remain robust , accompanied by benign inflation dynamics .
+   Under staff’s baseline scenario, r eal GDP growth is projected  at 6.6 percent in FY2025/26, helped by
+   the strong 2025 Q2 growth outturn , the GST reform , and a 2025Q3  nowcast pointing to continued
+   before  return ing to its potential rate of 6.5 percent over the medium term.  Growth outcomes could
+   potential from FY2026/ 27 onward  (text chart ). Headline inflation is expected to remain benign  and
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 14]:
+   INTERNATIONAL MONETARY FUND  9 13.      The CAD is expected  to widen and converge close to its norm of 2 percent of GDP over
+   the medium term . In FY2025/26, the CAD is projected at 1.0 percent of GDP, as merchandise
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 15]:
+   4.4 percent of GDP  (4.5 percent of GDP, IMF definition)  remains within reach . While the PIT
+   • State-level fiscal deficits are expected to return to about 3  percent of GDP  on aggregate in
+   4 The 2025/26 budget substantially raised the personal income tax -free threshold, leading to 0.3 percent of GDP in
+   FY2025/26 revenue each by less than 0.1 percent of GDP.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 16]:
+   in the power sector  (2.3 percent of GDP , see ¶34) (Annex V) —and unfunded civil service pensions
+   Central Government (CG) Fiscal Deficit 5.5 5.0 4.7 4.9 4.4 4.5
+   CG Fiscal Deficit (authorities' definition) 1/ 5.5 4.9 4.7 4.9 4.4 4.4
+   State Government Fiscal Deficit 2/ 2.9 2.5 3.0 3.3 3.1 3.1
+   Nominal GDP (Rs billions) 3/ 301,230FY2024/25 FY2025/26(In percent of GDP)
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 17]:
+   12 INTERNATIONAL MONETARY FUND  20.      Over the medium term, the fiscal deficit and the public debt ratio are  projected to
+   reduction in debt to 7 7 percent of GDP in FY2030/31. Under shock scenarios, reflecting conditions
+   ratio of 50±1 percent of GDP by
+   051015202530CroatiaSerbiaHungaryTunisiaBrazilGeorgiaChileArmeniaPolandMongoliaBotswanaEl SalvadorBulgariaColombiaUruguayBoliviaJordanIndiaPe
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 18]:
+   scenario presented in the budget , which reaches  48.5 percent  of GDP  in FY2030/31 . The
+   rebasing of GDP in February 2026 (Annex V I), it would be appropriate to revisit the debt target , with
+   squeezing out growth -enhancing spending on items like infrastructure, e ducation  and health.6
+   0.4 percent of GDP in FY2025/26 .
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 19]:
+   24.      The authorities expressed a strong commitment to this year’s fiscal deficit target of
+   4.4 percent of GDP and the medium -term fiscal anchor.  To meet this year’s target, they  pointed
+   adequacy of the debt target of 50±1 percent of GDP by FY2030/31  as a medium -term fiscal anchor .
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 20]:
+   0 5 10 15 20Average Growth of GSDP per Capita , 2012 -2023
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 21]:
+   27.      The flexible inflation targeting framework, anchored on headline CPI inflation, has
+   headline inflation to the public. In this context, the updated CPI basket, expected in February 2026 ,
+   (In percent, 6 -month moving average, adjusted for CPI inflation)
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 23]:
+   healthy  (Figure 8). Bank credit growth , after moderating,  is expected to recover gradually  as
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 29]:
+   (Annex IX). India  spends significantly less on R&D as a share of its GDP than the G20 EM average ,
+   (229 bn rupees or 0.1 percent of GDP  over 6
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 30]:
+   2024/ 25 GDP .16 External financial support , technological transfer , and capacity development  remain
+   13 As of March 2025, the authorities report that 215 billion rupees (0.07 percent of GDP) have been  disbursed as
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 31]:
+   56.      The authorities emphasized ongoing structural reforms to foster inclusive growth.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 33]:
+   streamlining of current spending are appropriate. Following the GDP rebasing in early 2026, the
+   framework, including the 4 -percent ta rget with ±2 percent band on headline inflation (rather than
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 34]:
+   INTERNATIONAL MONETARY FUND  29 64.      Advancing climate policies is  critical to supporting sustainable and resilient growth.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 35]:
+   Sources: IMF, World Economic Outlook, Oct 2025; and IMF staff calculations. Real GDP Growth
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 40]:
+   (In percent of GDP) 1/
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 44]:
+   GDP (2023/24) Poverty (2022, percent of population)
+   Nominal GDP (in billions of U.S. dollars): 3,638 Poverty rate $3 a day (2021 PPP): 5.3
+   GDP per capita (U.S. dollars) (IMF staff est.): 2,530 Undernourished 13.7
+   Real GDP (at market prices) 9.7 7.6 9.2 6.5 6.6 6.2
+   Fiscal position (percent of GDP) 3/
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 45]:
+   Current account balance (percent of GDP) -1.2 -2.0 -0.7 -0.6 -1.0 -1.4
+   Merchandise trade balance (percent of GDP) -6.0 -7.9 -6.7 -7.3 -8.0 -8.3
+   Direct investment in India (percent of GDP) 1.8 1.3 0.7 0.7 0.9 1.0
+   Overall balance (percent of GDP) -1.5 0.3 -1.8 0.1 -0.4 -0.5
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 47]:
+   GDP.7/ Starting in FY2020/21, includes food subsidies covered by the Food Corporation of India. For FY2020/21, excludes
+   6/ Includes subsidy-related bond issuance. (In percent of GDP)Est. Projections
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 48]:
+   Nominal GDP in billions of Rupees 235,974 268,905 301,230 330,682 358,841 395,165
+   year-end exchange rates. For FY2021/22 reflects the additional SDR allocation of about 0.6 percent of GDP.(In percent of GDP)
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 49]:
+   Real GDP (at market prices) 9.7 7.6 9.2 6.5 6.6 6.2 6.4 6.5 6.5 6.5
+   Potential GDP 3.0 5.9 6.5 6.5 6.5 6.5 6.4 6.4 6.5 6.5
+   Output gap (in percent of potential GDP) -3.9 -2.4 0.1 0.0 0.1 -0.2 -0.2 0.0 0.0 0.0
+   (in percent of GDP) -1.2 -2.0 -0.7 -0.6 -1.0 -1.4 -1.6 -1.7 -1.8 -1.9
+   External debt (percent of GDP, end-period) 19.5 18.6 18.4 18.8 19.2 19.0 18.8 18.6 18.4 18.3
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 50]:
+   Total assets (in percent of GDP) 99.1 93.1 91.4 93.9 95.0
+   Total assets (in percent of GDP)17.7 15.8 16.2 16.8 20.7
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 51]:
+   general government fiscal deficit declined  slightly in FY2024/25, and t he pace of f iscal consolidation
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 52]:
+   Trajectory  Background . India’s NIIP improved to −9.6 percent of GDP  in 2024 , from −10.5 percent of GDP in 2023,
+   assets declined to about 27.9 percent of GDP (from 28.1 percent of GDP in 2023), while gross foreign
+   liabilities declined to about 37.5 percent of GDP (from 38.6 percent of GDP in 2023). The bulk of assets
+   2024 (% GDP)  NIIP:  -9.6 Gross Assets: 27.9  Debt Assets: 4.4  Gross Liab.: 37.5  Debt Liab.: 19.2
+   Account  Background . The CA deficit declined  to 0.6 percent of GDP in FY2024/25, from 0.7 percent of GDP in the
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 53]:
+   were also almost evenly balanced  at 0.1 percent of GDP , reflecting large equity outflows in late 2024,
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 54]:
+   growth, as the official statistics are published 60 days after the end of the quarter.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 55]:
+   predict the large movements of q -o-q GDP growth in 2021 without a lag, and it has a much smaller
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 56]:
+   INTERNATIONAL MONETARY FUND  51 5. The final models trained on all available data until June 2025 predict robust growth
+   growth projection  at well over 7 percent
+   NSA Y-o-Y 7.7 7.8 7.9India: Growth Forecast
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 58]:
+   (2022).  Nowcasting GDP: A scalable approach using DFM, machine learning and novel data,
+   Richardson, A., van Florenstein Mulder, T., & Vehbi, T. (2021).  Nowcasting GDP using machine -
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 64]:
+   Real growth rate -4.9 -5.1 -4.7 -4.9 -4.9 -4.8 -4.8n.a. -4.7 -4.6 -4.5 -4.4…
+   Real GDP growth (percent) 6.5 6.6 6.2 6.4 6.5 6.5 6.5 6.5 6.5 6.5 6.5
+   Inflation (GDP deflator; percent) 3.1 1.8 3.7 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0
+   Nominal GDP growth (percent) 9.8 8.5 10.1 10.7 10.7 10.8 10.8 10.8 10.8 10.8 10.8
+   consolidation and a favorable interest-growth differential. Debt projections are broadly the same as the 2024 Article IV Consultation.
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 67]:
+   Real GDP growth 6.5% 6.5% 6.5%
+   Primary Balance-to-GDP ratio -1.6% -1.6% -1.6%
+   Inflation (GDP deflator) 4.0% 4.0% 4.0%
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 73]:
+   GDP/GNP  Apr-Jun 2025  08/29/25  Q Q Q Q 1Q NLT 2M
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 75]:
+   1.       India's productivity growth has been considerable in recent years, but it can increase
+   further. Between 2000 and 2019, India’s total factor productivity (TFP) growth averaged 1.4 percent
+   (Figure 1). This growth rate is high compared to emerging markets and advanced economies, partly
+   reflecting India’s lower per capita  income .2 Still, India needs to accelerate TFP growth further to
+   2 Typically, TFP growth decreases as a country develops, with its firms approaching the technological frontier and resource
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 76]:
+   INTERNATIONAL MONETARY FUND  71 2.      TFP growth has been robust in services but flat in manufacturing. A decomposition  of
+   During 2007 -2022, services industries generally experienced strong TFP growth, with moderate
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 78]:
+   6.      A decomposition of TFP growth shows limited productivity gains within firms, while
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 79]:
+   TFP during 2018 -22 shows that aggregate productivity growth was driven primarily by resource
+   Figure 4. India: Firm Dynamism and TFP Growth
+   During 2018 -2022, TPF growth has been driven largely by a
+   expenditure represented only 0.6 percent of GDP in 2020, on par with the EM average, but below
+   the G20 emerging market average of 0.9 percent of GDP and the advanced economies average of
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 80]:
+   (2020, in percent of GDP)
+   (In percent of GDP, 2019 -2020)
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 81]:
+   India’s limited FDI: India’s stock of inward FDI amounts to 15 percent of GDP, compared to an
+   average of 24.6 percent of GDP across middle income developing economies. Importantly, R&D
+   0 20 40 60 80Average TFP Growth
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 82]:
+   with an allocation worth 0.3 percent of GDP  over 6 years , aiming to spur private -sector investment in
+   12 The scheme is estimated to cost 0.01 percent of GDP per year (MoF, 2025).  Table 1. India: Firm -level Drivers of R&D Spending
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 86]:
+   15.      While still nascent, AI adoption could enhance productivity growth in India over the
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 87]:
+   with their share relative to GDP stabiliz ing at around 50 percent after a decline over the past decade .
+   $30 million, indicating a prevalence of smaller VC deals. Still, despite growth in MSME bank lending
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 88]:
+   exceeding 120 percent of GDP.
+   AverageCHNRange Since 2005 Median End 2019 LatestMarket Capitalization to GDP
+   2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024Private Equity Venture Capital In Percent of GDP (RHS)PE-VC Investments
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 91]:
+   21.      Innovation can have significant payoffs for TFP growth.  We consider the Global
+   rise in TFP growth (Table 3). A one point increase in
+   linked to increases in TFP growth by 4.6, 3.3, and 4.4
+   sophistication to the 90th percentile would be associated with higher TFP growth by 39.6 basis
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 92]:
+   INTERNATIONAL MONETARY FUND  87 Table 3. India: Global Innovation Index and TFP Growth
+   Notes: * p<0.10  ** p<0.05  *** p<0.01"; controls for log GDP per capita,
+   log GDP in USD, and share of agriculture in GDP.TFP average growth from 2009 to 2019
+[dump_03-imf-india-2025-article-iv-excerpt.pdf.txt Page 94]:
+   Asturias, J., S. Hur, T. J. Kehoe and K. J. Ruhl. 2021. Firm Entry and Exit and Aggregate Growth.
