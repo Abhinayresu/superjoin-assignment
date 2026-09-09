@@ -11,16 +11,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
 
----
-
-## 📽️ Demo Video
-
-[![Watch Demo](https://img.shields.io/badge/Demo_Video-Click_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#demo-video)
-
-*(Click thumbnail or link to watch the complete end-to-end walkthrough demonstrating PDF upload, grounded extraction, and interactive conflict investigation.)*
-
----
-
 ## 🎯 What This Solves
 
 When analyzing corporate annual reports, earnings presentations, prospectus filings, or macroeconomic surveys, human analysts face three major challenges:
