@@ -11,6 +11,9 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)
 
+---
+DEMO VIDEO LINK - https://drive.google.com/file/d/1EgzLtSzvHtMpQ1Zoz8_0NEKkW6RirNdR/view?usp=sharing
+
 ## 🎯 What This Solves
 
 When analyzing corporate annual reports, earnings presentations, prospectus filings, or macroeconomic surveys, human analysts face three major challenges:
